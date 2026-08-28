@@ -1,0 +1,811 @@
+term_id	program_source_key	locale	title_nl	title_en	source_title	source_slug	genre_term_id	genre_key	source_genre_name	source_genre_slug
+3052	3052	nl	De gehoorde stilte		De gehoorde stilte	de-gehoorde-stilte	5191	crosslinks	Crosslinks	crosslinks
+17246	3052	nl	De gehoorde stilte		De gehoorde stilte	de-gehoorde-stilte-culturele-raakvlakken	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+21328	3270	en	Het pianoatelier	The Piano Studio	The Piano Studio	het-pianoatelier__klassiek-en	3268	klassiek	Classical Music	classical-music
+3270	3270	nl	Het pianoatelier	The Piano Studio	Het pianoatelier	het-pianoatelier__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+3328	3328	nl	Bekend Nieuws?		Bekend Nieuws?	bekend-nieuws	3320	modern	Modern	moderne-muziek-nl
+3330	3328	nl	Bekend Nieuws?		Bekend Nieuws?	bekend-nieuws-hedendaagse-muziek	3324	hedendaags	Hedendaags	hedendaagse-muziek
+77102	5195	en	De Nacht: Hedendaags	The Night: Contemporary Music	The Night: Contemporary Music	de-nacht-hedendaags__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+77557	5195	en	De Nacht: Hedendaags	The Night: Contemporary Music	The Night: Contemporary Music	de-nacht-hedendaags__nachten-en	17032	nachten	The Nights	nights
+5195	5195	nl	De Nacht: Hedendaags	The Night: Contemporary Music	De Nacht: Hedendaags	de-nacht-hedendaags__nachten-nl	17030	nachten	Nachten	nachten
+77100	5195	nl	De Nacht: Hedendaags	The Night: Contemporary Music	De Nacht: Hedendaags	de-nacht-hedendaags__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+21342	16770	en	Tussen Swing en Bop	Between Swing and Bop	Between Swing and Bop	tussen-swing-en-bop__jazz-en	16768	jazz	Jazz	jazz-en
+16770	16770	nl	Tussen Swing en Bop	Between Swing and Bop	Tussen Swing en Bop	tussen-swing-en-bop__jazz-nl	16766	jazz	Jazz	jazz
+37230	16840	en	De Nacht: Jazz	The Night: Jazz	The Night: Jazz	de-nacht-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+16840	16840	nl	De Nacht: Jazz	The Night: Jazz	De Nacht: Jazz	de-nacht-jazz__jazz-nl	16766	jazz	Jazz	jazz
+24227	16976	en	Wereldmuziek Actua	World Music News	World Music News	wereldmuziek-actua__wereld-en	16974	wereld	World Music	world-music
+16976	16976	nl	Wereldmuziek Actua	World Music News	Wereldmuziek Actua	wereldmuziek-actua__wereld-nl	16972	wereld	Wereld	wereldmuziek
+17983	16994	en	Jazz Special	Jazz Special	Jazz Special	jazz-special__jazz-en	16768	jazz	Jazz	jazz-en
+16994	16994	nl	Jazz Special	Jazz Special	Jazz Special	jazz-special__jazz-nl	16766	jazz	Jazz	jazz
+17018	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__jazz-en	16768	jazz	Jazz	jazz-en
+21834	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__wereld-en	16974	wereld	World Music	world-music
+23883	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+23885	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__oud-en	3050	oud	Early Music	early-music
+24031	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__modern-en	3322	modern	Modern Music	modern-music
+29940	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+77365	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__klassiek-en	3268	klassiek	Classical Music	classical-music
+77368	17016	en	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+17016	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__jazz-nl	16766	jazz	Jazz	jazz
+17256	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__oud-nl	3048	oud	Oud	oude-muziek
+17258	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__wereld-nl	16972	wereld	Wereld	wereldmuziek
+17284	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+17398	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+17432	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+24029	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__modern-nl	3320	modern	Modern	moderne-muziek-nl
+60352	17016	nl	Concertzender Live	Concertzender Live	Concertzender Live	concertzender-live__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+170306	17024	en	¡Mambo!	¡Mambo!	¡Mambo!	mambo__wereld-en	16974	wereld	World Music	world-music
+17024	17024	nl	¡Mambo!	¡Mambo!	¡Mambo!	mambo__wereld-nl	16972	wereld	Wereld	wereldmuziek
+17048	17048	nl	De Geschiedenis van de Jazz		De Geschiedenis van de Jazz	de-geschiedenis-van-de-jazz	16766	jazz	Jazz	jazz
+133692	17116	en	Concertzender Archief	Concertzender Archive	Concertzender Archive	concertzender-archief__klassiek-en	3268	klassiek	Classical Music	classical-music
+133694	17116	en	Concertzender Archief	Concertzender Archive	Concertzender Archive	concertzender-archief__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+133696	17116	en	Concertzender Archief	Concertzender Archive	Concertzender Archive	concertzender-archief__jazz-en	16768	jazz	Jazz	jazz-en
+133698	17116	en	Concertzender Archief	Concertzender Archive	Concertzender Archive	concertzender-archief__wereld-en	16974	wereld	World Music	world-music
+133700	17116	en	Concertzender Archief	Concertzender Archive	Concertzender Archive	concertzender-archief__modern-en	3322	modern	Modern Music	modern-music
+17116	17116	nl	Concertzender Archief	Concertzender Archive	Concertzender Archief	concertzender-archief__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+18956	17116	nl	Concertzender Archief	Concertzender Archive	Concertzender Archief	concertzender-archief__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+20595	17116	nl	Concertzender Archief	Concertzender Archive	Concertzender Archief	concertzender-archief__jazz-nl	16766	jazz	Jazz	jazz
+22821	17116	nl	Concertzender Archief	Concertzender Archive	Concertzender Archief	concertzender-archief__wereld-nl	16972	wereld	Wereld	wereldmuziek
+26425	17116	nl	Concertzender Archief	Concertzender Archive	Concertzender Archief	concertzender-archief__modern-nl	3320	modern	Modern	moderne-muziek-nl
+17118	17118	nl	Nieuwe Muziek Actua		Nieuwe Muziek Actua	nieuwe-muziek-actua	3324	hedendaags	Hedendaags	hedendaagse-muziek
+17124	17124	nl	Super Audio		Super Audio	super-audio	3266	klassiek	Klassiek	klassieke-muziek
+193840	17154	en	Bijdetijds	Nowadays	Contemporary Music	bijdetijds__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+193966	17154	en	Bijdetijds	Nowadays	Nowadays	nowadays	3326	hedendaags	Contemporary Music	contemporary-music
+193968	17154	en	Bijdetijds	Nowadays	Nowadays	nowadays-modern-music	3322	modern	Modern Music	modern-music
+17154	17154	nl	Bijdetijds	Nowadays	Bijdetijds	bijdetijds__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+193964	17154	nl	Bijdetijds	Nowadays	Bijdetijds	bijdetijds	3320	modern	Modern	moderne-muziek-nl
+17164	17164	nl	Missa est		Missa est	missa-est	3048	oud	Oud	oude-muziek
+23522	17170	en	Oude Muziek Actua	Early Music News	Early Music News	oude-muziek-actua__oud-en	3050	oud	Early Music	early-music
+17170	17170	nl	Oude Muziek Actua	Early Music News	Oude Muziek Actua	oude-muziek-actua__oud-nl	3048	oud	Oud	oude-muziek
+21386	17196	en	Een late wandeling	A Late Stroll	A Late Stroll	een-late-wandeling__klassiek-en	3268	klassiek	Classical Music	classical-music
+17196	17196	nl	Een late wandeling	A Late Stroll	Een late wandeling	een-late-wandeling__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+23771	17198	en	Klassieke Muziek Actua	Classical Music Actua	Classical Music Actua	klassieke-muziek-actua__klassiek-en	3268	klassiek	Classical Music	classical-music
+17198	17198	nl	Klassieke Muziek Actua	Classical Music Actua	Klassieke Muziek Actua	klassieke-muziek-actua__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+18134	17200	en	Overige	Other	Other	overige__jazz-en	16768	jazz	Jazz	jazz-en
+18760	17200	en	Overige	Other	Other	overige__klassiek-en	3268	klassiek	Classical Music	classical-music
+21366	17200	en	Overige	Other	Other	overige__oud-en	3050	oud	Early Music	early-music
+21422	17200	en	Overige	Other	Other	overige__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+21424	17200	en	Overige	Other	Other	overige__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+23692	17200	en	Overige	Other	Other	overige__wereld-en	16974	wereld	World Music	world-music
+23877	17200	en	Overige	Other	Other	overige__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+24023	17200	en	Overige	Other	Other	overige__modern-en	3322	modern	Modern Music	modern-music
+17200	17200	nl	Overige	Other	Overige	overige__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+17360	17200	nl	Overige	Other	Overige	overige__jazz-nl	16766	jazz	Jazz	jazz
+17499	17200	nl	Overige	Other	Overige	overige__oud-nl	3048	oud	Oud	oude-muziek
+17522	17200	nl	Overige	Other	Overige	overige__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+23079	17200	nl	Overige	Other	Overige	overige__wereld-nl	16972	wereld	Wereld	wereldmuziek
+28062	17200	nl	Overige	Other	Overige	overige__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+28305	17200	nl	Overige	Other	Overige	overige__modern-nl	3320	modern	Modern	moderne-muziek-nl
+36920	17200	nl	Overige	Other	Overige	overige__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+29605	17202	en	Pakrammel	Pakrammel	Pakrammel	pakrammel__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+29607	17202	en	Pakrammel	Pakrammel	Pakrammel	pakrammel__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+17202	17202	nl	Pakrammel	Pakrammel	Pakrammel	pakrammel__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+27590	17202	nl	Pakrammel	Pakrammel	Pakrammel	pakrammel__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+23753	17204	en	Popart	Popart	Popart	popart__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+59887	17204	en	Popart	Popart	Popart	popart__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+17204	17204	nl	Popart	Popart	Popart	popart__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+59885	17204	nl	Popart	Popart	Popart	popart__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+18537	17208	en	Oriënt Express	Orient Express	Orient Express	orient-express__wereld-en	16974	wereld	World Music	world-music
+17208	17208	nl	Oriënt Express	Orient Express	Oriënt Express	orient-express__wereld-nl	16972	wereld	Wereld	wereldmuziek
+18203	17210	en	Wereldmineralen	World Minerals	World Minerals	wereldmineralen__wereld-en	16974	wereld	World Music	world-music
+17210	17210	nl	Wereldmineralen	World Minerals	Wereldmineralen	wereldmineralen__wereld-nl	16972	wereld	Wereld	wereldmuziek
+65573	17232	en	Ochtendeditie	Morning Edition	Morning Edition	ochtendeditie__klassiek-en	3268	klassiek	Classical Music	classical-music
+17232	17232	nl	Ochtendeditie	Morning Edition	Ochtendeditie	ochtendeditie__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+17926	17248	en	Thema	Theme	Theme	thema__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+18266	17248	en	Thema	Theme	Theme	thema__klassiek-en	3268	klassiek	Classical Music	classical-music
+39554	17248	en	Thema	Theme	Theme	thema__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+17248	17248	nl	Thema	Theme	Thema	thema__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+17690	17248	nl	Thema	Theme	Thema	thema__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+39552	17248	nl	Thema	Theme	Thema	thema__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+21382	17254	en	Zwerven door de Middeleeuwen	Wandering the Medieval	Wandering the Medieval	zwerven-door-de-middeleeuwen__oud-en	3050	oud	Early Music	early-music
+17254	17254	nl	Zwerven door de Middeleeuwen	Wandering the Medieval	Zwerven door de Middeleeuwen	zwerven-door-de-middeleeuwen__oud-nl	3048	oud	Oud	oude-muziek
+23743	17260	en	230 Volt	230 V	230 V	230-volt__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+17260	17260	nl	230 Volt	230 V	230 Volt	230-volt__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+21340	17286	en	Het Grote Geluid	The Big Sound	The Big Sound	het-grote-geluid__jazz-en	16768	jazz	Jazz	jazz-en
+17286	17286	nl	Het Grote Geluid	The Big Sound	Het Grote Geluid	het-grote-geluid__jazz-nl	16766	jazz	Jazz	jazz
+17293	17291	en	The Jazz Connection	The Jazz Connection	The Jazz Connection	the-jazz-connection__jazz-en	16768	jazz	Jazz	jazz-en
+17291	17291	nl	The Jazz Connection	The Jazz Connection	The Jazz Connection	the-jazz-connection__jazz-nl	16766	jazz	Jazz	jazz
+17306	17306	nl	Stemmen van de Nacht		Stemmen van de Nacht	stemmen-van-de-nacht	17030	nachten	Nachten	nachten
+18387	17310	en	Jazz Actua	Jazz Actua	Jazz Actua	jazz-actua__jazz-en	16768	jazz	Jazz	jazz-en
+17310	17310	nl	Jazz Actua	Jazz Actua	Jazz Actua	jazz-actua__jazz-nl	16766	jazz	Jazz	jazz
+23243	17312	en	Spinning the Blues	Spinning the Blues	Spinning the Blues	spinning-the-blues__jazz-en	16768	jazz	Jazz	jazz-en
+23851	17312	en	Spinning the Blues	Spinning the Blues	Spinning the Blues	spinning-the-blues__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+17312	17312	nl	Spinning the Blues	Spinning the Blues	Spinning the Blues	spinning-the-blues__jazz-nl	16766	jazz	Jazz	jazz
+17314	17312	nl	Spinning the Blues	Spinning the Blues	Spinning the Blues	spinning-the-blues__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+17320	17318	en	Rhythm is our Business	Rhythm is our Business	Rhythm is our Business	rhythm-is-our-business__jazz-en	16768	jazz	Jazz	jazz-en
+17318	17318	nl	Rhythm is our Business	Rhythm is our Business	Rhythm is our Business	rhythm-is-our-business__jazz-nl	16766	jazz	Jazz	jazz
+17325	17323	en	The Art of the Improvisers	The Art of the Improvisers	The Art of the Improvisers	the-art-of-the-improvisers__jazz-en	16768	jazz	Jazz	jazz-en
+17323	17323	nl	The Art of the Improvisers	The Art of the Improvisers	The Art of the Improvisers	the-art-of-the-improvisers__jazz-nl	16766	jazz	Jazz	jazz
+18573	17330	en	Lüdeke Straightahead	Lüdeke Straight Ahead	Lüdeke Straight Ahead	ludeke-straightahead__jazz-en	16768	jazz	Jazz	jazz-en
+17330	17330	nl	Lüdeke Straightahead	Lüdeke Straight Ahead	Lüdeke Straightahead	ludeke-straightahead__jazz-nl	16766	jazz	Jazz	jazz
+24335	17362	en	Krizz Krazz	Krizz Krazz	Krizz Krazz	krizz-krazz__jazz-en	16768	jazz	Jazz	jazz-en
+17362	17362	nl	Krizz Krazz	Krizz Krazz	Krizz Krazz	krizz-krazz__jazz-nl	16766	jazz	Jazz	jazz
+17370	17370	nl	My Own Label		My Own Label	my-own-label	16766	jazz	Jazz	jazz
+18077	17374	en	Mariama	Mariama	Mariama	mariama__wereld-en	16974	wereld	World Music	world-music
+17374	17374	nl	Mariama	Mariama	Mariama	mariama__wereld-nl	16972	wereld	Wereld	wereldmuziek
+18234	17380	en	Klankenstapper	Klankenstapper	Klankenstapper	klankenstapper__wereld-en	16974	wereld	World Music	world-music
+17380	17380	nl	Klankenstapper	Klankenstapper	Klankenstapper	klankenstapper__wereld-nl	16972	wereld	Wereld	wereldmuziek
+18588	17380	nl	Klankenstapper	Klankenstapper	Klankenstapper	klankenstapper-klassieke-muziek	3266	klassiek	Klassiek	klassieke-muziek
+20081	17382	en	OpgeHoesd	OpgeHoesd	OpgeHoesd	opgehoesd__wereld-en	16974	wereld	World Music	world-music
+20083	17382	en	OpgeHoesd	OpgeHoesd	OpgeHoesd	opgehoesd__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+21346	17382	en	OpgeHoesd	OpgeHoesd	OpgeHoesd	opgehoesd-classical-music	3268	klassiek	Classical Music	classical-music
+17382	17382	nl	OpgeHoesd	OpgeHoesd	OpgeHoesd	opgehoesd__wereld-nl	16972	wereld	Wereld	wereldmuziek
+17384	17382	nl	OpgeHoesd	OpgeHoesd	OpgeHoesd	opgehoesd__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+17562	17382	nl	OpgeHoesd	OpgeHoesd	OpgeHoesd	opgehoesd-jazz	16766	jazz	Jazz	jazz
+23895	17400	en	Gramophoon	Gramophone	Gramophone	gramophoon__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+17400	17400	nl	Gramophoon	Gramophone	Gramophoon	gramophoon__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+17584	17400	nl	Gramophoon	Gramophone	Gramophoon	gramophoon__jazz-nl	16766	jazz	Jazz	jazz
+23871	17406	en	Kroniek van de Nederlandse Muziek	Chronicle of Dutch Music	Chronicle of Dutch Music	kroniek-van-de-nederlandse-muziek__raakvlakken-en	3268	klassiek	Classical Music	classical-music
+28115	17406	en	Kroniek van de Nederlandse Muziek	Chronicle of Dutch Music	Chronicle of Dutch Music	kroniek-van-de-nederlandse-muziek__klassiek-en	3268	klassiek	Classical Music	classical-music
+17406	17406	nl	Kroniek van de Nederlandse Muziek	Chronicle of Dutch Music	Kroniek van de Nederlandse Muziek	kroniek-van-de-nederlandse-muziek__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+55399	17408	en	Tussen Droom en Daad	Between Dreams and Reality	Between Dreams and Reality	tussen-droom-en-daad__klassiek-en	3268	klassiek	Classical Music	classical-music
+17408	17408	nl	Tussen Droom en Daad	Between Dreams and Reality	Tussen Droom en Daad	tussen-droom-en-daad__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+66462	17422	en	De Muzikant	The Musician	The Musician	de-muzikant__klassiek-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+17422	17422	nl	De Muzikant	The Musician	De Muzikant	de-muzikant__klassiek-nl-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+17434	17434	nl	Rossini Compleet		Rossini Compleet	rossini-compleet	3266	klassiek	Klassiek	klassieke-muziek
+17438	17438	nl	Bob Dylan		Bob Dylan	bob-dylan-nl	5191	crosslinks	Crosslinks	crosslinks
+17440	17438	nl	Bob Dylan		Bob Dylan	bob-dylan-pop	5191	crosslinks	Crosslinks	crosslinks
+20796	17450	en	Metamorfosen	Metamorphoses	Metamorphoses	metamorfosen__wereld-en	16974	wereld	World Music	world-music
+17450	17450	nl	Metamorfosen	Metamorphoses	Metamorfosen	metamorfosen__wereld-nl	16972	wereld	Wereld	wereldmuziek
+25100	17474	en	De Diva op de erwt	Diva’s Delight	Diva’s Delight	de-diva-op-de-erwt__opera-en	17472	opera	Opera	opera-en
+34637	17474	en	De Diva op de erwt	Diva’s Delight	Diva’s Delight	de-diva-op-de-erwt__klassiek-en	17472	opera	Opera	opera-en
+17474	17474	nl	De Diva op de erwt	Diva’s Delight	De Diva op de erwt	de-diva-op-de-erwt__opera-nl	17470	opera	Opera	opera
+27777	17474	nl	De Diva op de erwt	Diva’s Delight	De Diva op de erwt	de-diva-op-de-erwt__klassiek-nl-nl	17470	opera	Opera	opera
+17510	17510	nl	De Wereld Draait		De Wereld Draait	de-wereld-draait-nl	16972	wereld	Wereld	wereldmuziek
+17512	17510	nl	De Wereld Draait		De Wereld Draait	de-wereld-draait-wereldmuziek	16972	wereld	Wereld	wereldmuziek
+17524	17524	nl	EBU Concerten		EBU Concerten	ebu-concerten	3266	klassiek	Klassiek	klassieke-muziek
+19033	17524	nl	EBU Concerten		EBU Concerten	ebu-concerten-hedendaagse-muziek	3324	hedendaags	Hedendaags	hedendaagse-muziek
+19549	17524	nl	EBU Concerten		EBU Concerten	ebu-concerten-wereldmuziek	16972	wereld	Wereld	wereldmuziek
+28440	17532	en	Paul Korenhofs Opera Actueel	Paul Korenhof Browsing the Opera	Paul Korenhof Browsing the Opera	paul-korenhofs-opera-actueel__klassiek-en	3268	klassiek	Classical Music	classical-music
+35302	17532	en	Paul Korenhofs Opera Actueel	Paul Korenhof Browsing the Opera	Paul Korenhof Browsing the Opera	paul-korenhofs-opera-actueel__opera-en	17472	opera	Opera	opera-en
+17532	17532	nl	Paul Korenhofs Opera Actueel	Paul Korenhof Browsing the Opera	Paul Korenhofs Opera Actueel	paul-korenhofs-opera-actueel__opera-nl	17470	opera	Opera	opera
+58282	17532	nl	Paul Korenhofs Opera Actueel	Paul Korenhof Browsing the Opera	Paul Korenhofs Opera Actueel	paul-korenhofs-opera-actueel__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+58250	17544	en	De Nacht: Klassiek	The Night: Classical	The Night: Classical	de-nacht-klassiek__klassiek-en	3268	klassiek	Classical Music	classical-music
+65428	17544	en	De Nacht: Klassiek	The Night: Classical	The Night: Classical	de-nacht-klassiek__nachten-en	17032	nachten	The Nights	nights
+17544	17544	nl	De Nacht: Klassiek	The Night: Classical	De Nacht: Klassiek	de-nacht-klassiek__nachten-nl	17030	nachten	Nachten	nachten
+58248	17544	nl	De Nacht: Klassiek	The Night: Classical	De Nacht: Klassiek	de-nacht-klassiek__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+155398	17548	en	De Nacht: Oude Muziek	The Night: Early Music	The Night: Early Music	de-nacht-oude-muziek__oud-en	3050	oud	Early Music	early-music
+17548	17548	nl	De Nacht: Oude Muziek	The Night: Early Music	De Nacht: Oude Muziek	de-nacht-oude-muziek__oud-nl	3048	oud	Oud	oude-muziek
+17564	17564	nl	Villa-Lobos		Villa-Lobos	villa-lobos	3266	klassiek	Klassiek	klassieke-muziek
+17574	17574	nl	Perotinus & Co		Perotinus &amp; Co	perotinus-co	3048	oud	Oud	oude-muziek
+21324	17582	en	De Zwervende Microfoon	The Wandering Microphone	The Wandering Microphone	de-zwervende-microfoon__wereld-en	16974	wereld	World Music	world-music
+17582	17582	nl	De Zwervende Microfoon	The Wandering Microphone	De Zwervende Microfoon	de-zwervende-microfoon__wereld-nl	16972	wereld	Wereld	wereldmuziek
+17592	17592	nl	Donder, bliksem en manenschijn		Donder, bliksem en manenschijn	donder-bliksem-en-manenschijn	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+21384	17594	en	Ongehoorde Scores	Unheard Scores	Unheard Scores	ongehoorde-scores__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+21420	17594	en	Ongehoorde Scores	Unheard Scores	Unheard Scores	unheard-scores-classical-music	3268	klassiek	Classical Music	classical-music
+17594	17594	nl	Ongehoorde Scores	Unheard Scores	Ongehoorde Scores	ongehoorde-scores__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+24067	17610	en	Il Futurismo	Il Futurismo	Il Futurismo	il-futurismo-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+17610	17610	nl	Il Futurismo	Il Futurismo	Il Futurismo	il-futurismo-hedendaagse-muziek	5191	crosslinks	Crosslinks	crosslinks
+46959	17688	en	De Klankbron	The Source of Sound	The Source of Sound	de-klankbron__wereld-en	16974	wereld	World Music	world-music
+17688	17688	nl	De Klankbron	The Source of Sound	De Klankbron	de-klankbron__wereld-nl	16972	wereld	Wereld	wereldmuziek
+186839	17720	en	Het Paleis van de Weemoed	The Palace of Nostalgia	The Palace of Nostalgia	het-paleis-van-de-weemoed__jazz-en	16768	jazz	Jazz	jazz-en
+17720	17720	nl	Het Paleis van de Weemoed	The Palace of Nostalgia	Het Paleis van de Weemoed	het-paleis-van-de-weemoed__jazz-nl	16766	jazz	Jazz	jazz
+24462	17723	en	Off the Record	Off the Record	Off the Record	off-the-record__jazz-en	16768	jazz	Jazz	jazz-en
+17723	17723	nl	Off the Record	Off the Record	Off the Record	off-the-record__jazz-nl	16766	jazz	Jazz	jazz
+17742	17742	nl	Concertzender.nl		Concertzender.nl	concertzender-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+22710	17750	en	Nieuw verschenen	New releases	New releases	nieuw-verschenen__jazz-en	16768	jazz	Jazz	jazz-en
+36279	17750	en	Nieuw verschenen	New releases	New releases	nieuw-verschenen__klassiek-en	3268	klassiek	Classical Music	classical-music
+17750	17750	nl	Nieuw verschenen	New releases	Nieuw verschenen	nieuw-verschenen__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+17752	17750	nl	Nieuw verschenen	New releases	Nieuw verschenen	nieuw-verschenen__jazz-nl	16766	jazz	Jazz	jazz
+17754	17750	nl	Nieuw verschenen	New releases	Nieuw verschenen	nieuw-verschenen__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+17760	17750	nl	Nieuw verschenen	New releases	Nieuw verschenen	nieuw-verschenen__oud-nl	3048	oud	Oud	oude-muziek
+17939	17750	nl	Nieuw verschenen	New releases	Nieuw verschenen	nieuw-verschenen__wereld-nl	16972	wereld	Wereld	wereldmuziek
+23964	17750	nl	Nieuw verschenen	New releases	Nieuw verschenen	nieuw-verschenen-moderne-muziek	3320	modern	Modern	moderne-muziek-nl
+17863	17861	en	Off the Beaten Track(s)	Off the Beaten Track(s)	Off the Beaten Track(s)	off-the-beaten-tracks__jazz-en	16768	jazz	Jazz	jazz-en
+17861	17861	nl	Off the Beaten Track(s)	Off the Beaten Track(s)	Off the Beaten Track(s)	off-the-beaten-tracks__jazz-nl	16766	jazz	Jazz	jazz
+18148	17866	en	Traditional Jazz	Traditional Jazz	Traditional Jazz	traditional-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+17866	17866	nl	Traditional Jazz	Traditional Jazz	Traditional Jazz	traditional-jazz__jazz-nl	16766	jazz	Jazz	jazz
+17920	17920	nl	Concertagenda		Concertagenda	concertagenda	3266	klassiek	Klassiek	klassieke-muziek
+17937	17920	nl	Concertagenda		Concertagenda	concertagenda-jazz	16766	jazz	Jazz	jazz
+17922	17922	nl	Het Bachlabyrint		Het Bachlabyrint	het-bachlabyrint	3266	klassiek	Klassiek	klassieke-muziek
+20433	17922	nl	Het Bachlabyrint		Het Bachlabyrint	het-bachlabyrint-oude-muziek	3048	oud	Oud	oude-muziek
+21408	17924	en	Gesprek onder acht ogen	Conversation Under Eight Eyes.	Conversation Under Eight Eyes.	gesprek-onder-acht-ogen__klassiek-en	3268	klassiek	Classical Music	classical-music
+17924	17924	nl	Gesprek onder acht ogen	Conversation Under Eight Eyes.	Gesprek onder acht ogen	gesprek-onder-acht-ogen__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+18168	17948	en	Live Jazz	Live Jazz	Live Jazz	live-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+17948	17948	nl	Live Jazz	Live Jazz	Live Jazz	live-jazz__jazz-nl	16766	jazz	Jazz	jazz
+23854	17956	en	Holiday for Hipsters	Holiday for Hipsters	Holiday for Hipsters	holiday-for-hipsters__jazz-en	16768	jazz	Jazz	jazz-en
+17956	17956	nl	Holiday for Hipsters	Holiday for Hipsters	Holiday for Hipsters	holiday-for-hipsters__jazz-nl	16766	jazz	Jazz	jazz
+17958	17958	nl	Revival		Revival	revival-jazz	16766	jazz	Jazz	jazz
+18044	18042	en	The Sound of Movies	The Sound of Movies	The Sound of Movies	the-sound-of-movies__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+18042	18042	nl	The Sound of Movies	The Sound of Movies	The Sound of Movies	the-sound-of-movies__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+18074	18074	nl	Nederlandse Muziek		Nederlandse Muziek	nederlandse-muziek	3266	klassiek	Klassiek	klassieke-muziek
+26033	18348	en	De duif van Gregorius	The dove of Gregorius	The dove of Gregorius	de-duif-van-gregorius__oud-en	3050	oud	Early Music	early-music
+18348	18348	nl	De duif van Gregorius	The dove of Gregorius	De duif van Gregorius	de-duif-van-gregorius__oud-nl	3048	oud	Oud	oude-muziek
+27708	18348	nl	De duif van Gregorius	The dove of Gregorius	De duif van Gregorius	de-duif-van-gregorius-culturele-raakvlakken	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+18696	18696	nl	Poesie album		Poesie album	poesie-album	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+18834	18834	nl	Bachbloed		Bachbloed	bachbloed	3048	oud	Oud	oude-muziek
+21316	18846	en	Grand Café Europa	Grand Café Europe	Grand Café Europe	grand-cafe-europa__klassiek-en	3268	klassiek	Classical Music	classical-music
+18846	18846	nl	Grand Café Europa	Grand Café Europe	Grand Café Europa	grand-cafe-europa__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+21394	18849	en	En profil	En Profil	En Profil	en-profil__klassiek-en	3268	klassiek	Classical Music	classical-music
+18849	18849	nl	En profil	En Profil	En profil	en-profil__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+18863	18861	en	En face	En face	En face	en-face__klassiek-en	3268	klassiek	Classical Music	classical-music
+18861	18861	nl	En face	En face	En face	en-face__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+19172	19172	nl	De vroege ochtend		De vroege ochtend	de-vroege-ochtend	3266	klassiek	Klassiek	klassieke-muziek
+19189	19187	en	Entrata	Entrata	Entrata	entrata__oud-en	3050	oud	Early Music	early-music
+21344	19187	en	Entrata	Entrata	Entrata	entrata-classical-music	3268	klassiek	Classical Music	classical-music
+19187	19187	nl	Entrata	Entrata	Entrata	entrata__oud-nl	3048	oud	Oud	oude-muziek
+19654	19294	en	Holland Jazz	Holland Jazz	Holland Jazz	holland-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+19294	19294	nl	Holland Jazz	Holland Jazz	Holland Jazz	holland-jazz__jazz-nl	16766	jazz	Jazz	jazz
+21368	19424	en	De Barokke Speeldoos	The Baroque Music Box	The Baroque Music Box	the-baroque-music-box	3268	klassiek	Classical Music	classical-music
+21372	19424	en	De Barokke Speeldoos	The Baroque Music Box	The Baroque Music Box	de-barokke-speeldoos__oud-en	3050	oud	Early Music	early-music
+19424	19424	nl	De Barokke Speeldoos	The Baroque Music Box	De Barokke Speeldoos	de-barokke-speeldoos__oud-nl	3048	oud	Oud	oude-muziek
+19612	19612	nl	De dromen van Charles Ives		De dromen van Charles Ives	de-dromen-van-charles-ives	3320	modern	Modern	moderne-muziek-nl
+19715	19715	en	Missa Etcetera	Missa Etcetera	Missa Etcetera	missa-etcetera__oud-en	3050	oud	Early Music	early-music
+19763	19715	nl	Missa Etcetera	Missa Etcetera	Missa Etcetera	missa-etcetera__oud-nl	3048	oud	Oud	oude-muziek
+23095	20073	en	Folk It!	Folk It!	Folk It!	folk-it__wereld-en	16974	wereld	World Music	world-music
+27530	20073	en	Folk It!	Folk It!	Folk It!	folk-it__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+20073	20073	nl	Folk It!	Folk It!	Folk It!	folk-it__wereld-nl	16972	wereld	Wereld	wereldmuziek
+31772	20073	nl	Folk It!	Folk It!	Folk It!	folk-it__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+20494	20492	en	Combo Swing	Combo Swing	Combo Swing	combo-swing__jazz-en	16768	jazz	Jazz	jazz-en
+21370	20492	en	Combo Swing	Combo Swing	Combo Swing	combo-swing-classical-music	3268	klassiek	Classical Music	classical-music
+20492	20492	nl	Combo Swing	Combo Swing	Combo Swing	combo-swing__jazz-nl	16766	jazz	Jazz	jazz
+20499	20499	nl	Elgars afscheid		Elgars afscheid	elgars-afscheid	3266	klassiek	Klassiek	klassieke-muziek
+21332	20503	en	De complete Haydn	The complete Haydn	The complete Haydn	de-complete-haydn__oud-en	3050	oud	Early Music	early-music
+20503	20503	nl	De complete Haydn	The complete Haydn	De complete Haydn	de-complete-haydn__oud-nl	3048	oud	Oud	oude-muziek
+23284	20536	en	De Tuin van Oud	The Early Garden	The Early Garden	de-tuin-van-oud__oud-en	3050	oud	Early Music	early-music
+20536	20536	nl	De Tuin van Oud	The Early Garden	De Tuin van Oud	de-tuin-van-oud__oud-nl	3048	oud	Oud	oude-muziek
+65763	20570	en	De Musea	The Museums	The Museums	de-musea__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+20570	20570	nl	De Musea	The Museums	De Musea	de-musea__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+20603	20597	en	Cantina Brasil	Cantina Brasil	Cantina Brasil	cantina-brasil__wereld-en	16974	wereld	World Music	world-music
+20597	20597	nl	Cantina Brasil	Cantina Brasil	Cantina Brasil	cantina-brasil__wereld-nl	16972	wereld	Wereld	wereldmuziek
+20776	20776	nl	Appendix		Appendix	appendix	3266	klassiek	Klassiek	klassieke-muziek
+20803	20799	en	Gharana	Gharana	Gharana	gharana__wereld-en	16974	wereld	World Music	world-music
+20799	20799	nl	Gharana	Gharana	Gharana	gharana__wereld-nl	16972	wereld	Wereld	wereldmuziek
+20833	20833	nl	Colours of Albion		Colours of Albion	colours-of-albion	3266	klassiek	Klassiek	klassieke-muziek
+20957	20957	nl	Klassiek Tsjechië		Klassiek Tsjechië	klassiek-tsjechie	3266	klassiek	Klassiek	klassieke-muziek
+180888	20984	en	Bazaar	Bazaar	Bazaar	bazaar__wereld-en	16974	wereld	World Music	world-music
+20984	20984	nl	Bazaar	Bazaar	Bazaar	bazaar__wereld-nl	16972	wereld	Wereld	wereldmuziek
+21055	21049	en	Hard Bop Boulevard	Hard Bop Boulevard	Hard Bop Boulevard	hard-bop-boulevard__jazz-en	16768	jazz	Jazz	jazz-en
+21049	21049	nl	Hard Bop Boulevard	Hard Bop Boulevard	Hard Bop Boulevard	hard-bop-boulevard__jazz-nl	16766	jazz	Jazz	jazz
+21330	21330	en		Classic Czech Republic	Classic Czech Republic	classic-czech-republic__klassiek-en	3268	klassiek	Classical Music	classical-music
+21352	21352	en		Elgar’s Goodbye	Elgar&#8217;s Goodbye	elgars-goodbye	3268	klassiek	Classical Music	classical-music
+21356	21356	en	Let’s Movie!	Let’s Movie!	Let&#8217;s Movie!	lets-movie	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+21358	21356	en	Let’s Movie!	Let’s Movie!	Let&#8217;s Movie!	lets-movie-classical-music	3268	klassiek	Classical Music	classical-music
+21398	21356	en	Let’s Movie!	Let’s Movie!	Let&#8217;s Movie!	lets-movie-world-music	16974	wereld	World Music	world-music
+21400	21356	en	Let’s Movie!	Let’s Movie!	Let&#8217;s Movie!	lets-movie-pop-en	5193	crosslinks	Crosslinks	crosslinks-en
+24216	21356	nl	Let’s Movie!	Let’s Movie!	Let&#8217;s Movie!	lets-movie-wereldmuziek	16972	wereld	Wereld	wereldmuziek
+21364	21364	en	Karavan’serai	Karavan’serai	Karavan’serai	karavanserai__jazz-en	16768	jazz	Jazz	jazz-en
+25529	21364	nl	Karavan’serai	Karavan’serai	Karavan’serai	karavanserai__jazz-nl	16766	jazz	Jazz	jazz
+21412	21412	en	Moanin’ the Blues	Moanin’ the Blues	Moanin’ the Blues	moanin-the-blues__jazz-en	16768	jazz	Jazz	jazz-en
+24854	21412	nl	Moanin’ the Blues	Moanin’ the Blues	Moanin’ the Blues	moanin-the-blues__jazz-nl	16766	jazz	Jazz	jazz
+21556	21556	nl	Russische sprookjes		Russische sprookjes	russische-sprookjes	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+21593	21593	en		And Forever the Forests Sing....	And Forever the Forests Sing....	and-forever-the-forests-sing	3268	klassiek	Classical Music	classical-music
+21784	21784	nl	De Ochtend: Nieuwe muziek		De Ochtend: Nieuwe muziek	de-ochtend-nieuwe-muziek	3324	hedendaags	Hedendaags	hedendaagse-muziek
+155196	21972	en	The Great American Songbook	The Great American Songbook	The Great American Songbook	the-great-american-songbook__jazz-en	16768	jazz	Jazz	jazz-en
+21972	21972	nl	The Great American Songbook	The Great American Songbook	The Great American Songbook	the-great-american-songbook__jazz-nl	16766	jazz	Jazz	jazz
+23836	21972	nl	The Great American Songbook	The Great American Songbook	The Great American Songbook	the-great-american-songbook-wereldmuziek	16972	wereld	Wereld	wereldmuziek
+155194	21972	nl	The Great American Songbook	The Great American Songbook	The Great American Songbook	the-great-american-songbook-jazz	16766	jazz	Jazz	jazz
+21977	21977	nl	De Nacht: Special		De Nacht: Special	de-nacht-special__nachten-nl	17030	nachten	Nachten	nachten
+22121	22119	en	De Oude Speeldoos	The Old Music Box	The Old Music Box	de-oude-speeldoos__oud-en	3050	oud	Early Music	early-music
+22119	22119	nl	De Oude Speeldoos	The Old Music Box	De Oude Speeldoos	de-oude-speeldoos__oud-nl	3048	oud	Oud	oude-muziek
+205327	22129	en	De Boekenkast	The Bookcase	The Bookcase	de-boekenkast__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+22129	22129	nl	De Boekenkast	The Bookcase	De Boekenkast	de-boekenkast__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+22175	22175	en		Thunder, Lightning and Moonshine	Thunder, Lightning and Moonshine	thunder-lightning-and-moonshine	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+71288	22537	en	Afgestoft	Dusted Off	Dusted Off	afgestoft__klassiek-en	3268	klassiek	Classical Music	classical-music
+22537	22537	nl	Afgestoft	Dusted Off	Afgestoft	afgestoft__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+22539	22539	nl	Sax-o-Foon		Sax-o-Foon	sax-o-foon	3266	klassiek	Klassiek	klassieke-muziek
+22541	22541	en		Sax-o-Phone	Sax-o-Phone	sax-o-phone	3268	klassiek	Classical Music	classical-music
+22847	22847	en		Record up your Sleeve	Record up your Sleeve	record-up-your-sleeve	16974	wereld	World Music	world-music
+22849	22847	en		Record up your Sleeve	Record up your Sleeve	record-up-your-sleeve-pop-en	5193	crosslinks	Crosslinks	crosslinks-en
+23186	23186	nl	Dansen rondom de troon		Dansen rondom de troon	dansen-rondom-de-troon	3266	klassiek	Klassiek	klassieke-muziek
+23367	23365	en	House of Hard Bop	House of Hard Bop	House of Hard Bop	house-of-hard-bop__jazz-en	16768	jazz	Jazz	jazz-en
+23365	23365	nl	House of Hard Bop	House of Hard Bop	House of Hard Bop	house-of-hard-bop__jazz-nl	16766	jazz	Jazz	jazz
+23673	23673	nl	Van lucht tot toon		Van lucht tot toon	van-lucht-tot-toon	3266	klassiek	Klassiek	klassieke-muziek
+23683	23683	en	De Wandeling	An Early Evening Stroll	An Early Evening Stroll	de-wandeling__klassiek-en	3268	klassiek	Classical Music	classical-music
+31311	23683	nl	De Wandeling	An Early Evening Stroll	De Wandeling	de-wandeling__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+23720	23718	en	Early Delights	Early Delights	Early Delights	early-delights__oud-en	3050	oud	Early Music	early-music
+23718	23718	nl	Early Delights	Early Delights	Early Delights	early-delights__oud-nl	3048	oud	Oud	oude-muziek
+23728	23728	en		The Night: Opera	The Night: Opera	de-nacht-opera__nachten-en	17032	nachten	The Nights	nights
+23782	23782	en		Dancing Around The Throne	Dancing Around The Throne	dancing-around-the-throne	3268	klassiek	Classical Music	classical-music
+23892	23892	en	Door de Mazen van het Net	Slipped Through the Net	Slipped Through the Net	door-de-mazen-van-het-net__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+58327	23892	en	Door de Mazen van het Net	Slipped Through the Net	Slipped Through the Net	door-de-mazen-van-het-net__wereld-en	16974	wereld	World Music	world-music
+58325	23892	nl	Door de Mazen van het Net	Slipped Through the Net	Door de Mazen van het Net	door-de-mazen-van-het-net__wereld-nl	16972	wereld	Wereld	wereldmuziek
+66598	23892	nl	Door de Mazen van het Net	Slipped Through the Net	Door de Mazen van het Net	door-de-mazen-van-het-net__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+23911	23905	en	Solta a Franga	Solta a Franga	Solta a Franga	solta-a-franga__wereld-en	16974	wereld	World Music	world-music
+23905	23905	nl	Solta a Franga	Solta a Franga	Solta a Franga	solta-a-franga__wereld-nl	16972	wereld	Wereld	wereldmuziek
+24009	24005	en	De Vorige Eeuw	The Last Century	The Last Century	de-vorige-eeuw__modern-en	3322	modern	Modern Music	modern-music
+78198	24005	en	De Vorige Eeuw	The Last Century	The Last Century	de-vorige-eeuw__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+24005	24005	nl	De Vorige Eeuw	The Last Century	De Vorige Eeuw	de-vorige-eeuw__modern-nl	3320	modern	Modern	moderne-muziek-nl
+77675	24005	nl	De Vorige Eeuw	The Last Century	De Vorige Eeuw	de-vorige-eeuw__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+24018	24018	en		Earwitness	Earwitness	earwitness	3322	modern	Modern Music	modern-music
+24020	24018	en		Earwitness	Earwitness	earwitness-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+24042	24042	en		Old news?	Old news?	old-news	3322	modern	Modern Music	modern-music
+24044	24042	en		Old news?	Old news?	old-news-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+24070	24070	en		The Night	The Night	de-nacht__nachten-en	17032	nachten	The Nights	nights
+24082	24078	en	Pluto	Pluto	Pluto	pluto__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+24084	24078	en	Pluto	Pluto	Pluto	pluto__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+24078	24078	nl	Pluto	Pluto	Pluto	pluto__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+24080	24078	nl	Pluto	Pluto	Pluto	pluto__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+24218	24218	nl	Let’s Movie!		Let’s Movie!	lets-movie-pop	5191	crosslinks	Crosslinks	crosslinks
+24348	24348	en	De Nacht: Wereld	The Night: World Music	The Night: World Music	de-nacht-wereld__nachten-en	17032	nachten	The Nights	nights
+58268	24348	en	De Nacht: Wereld	The Night: World Music	The Night: World Music	de-nacht-wereld__wereld-en	16974	wereld	World Music	world-music
+58266	24348	nl	De Nacht: Wereld	The Night: World Music	De Nacht: Wereld	de-nacht-wereld__wereld-nl	16972	wereld	Wereld	wereldmuziek
+77563	24348	nl	De Nacht: Wereld	The Night: World Music	De Nacht: Wereld	de-nacht-wereld__nachten-nl	17030	nachten	Nachten	nachten
+24359	24359	en		Beat The Music	Beat The Music	beat-the-music	3326	hedendaags	Contemporary Music	contemporary-music
+24406	24400	en	Young Professionals Live	Young Professionals Live	Young Professionals Live	young-professionals-live__klassiek-en	3268	klassiek	Classical Music	classical-music
+24400	24400	nl	Young Professionals Live	Young Professionals Live	Young Professionals Live	young-professionals-live__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+25011	25011	nl	België!		België!	belgie	3266	klassiek	Klassiek	klassieke-muziek
+25013	25013	en		Belgium!	Belgium!	belgium	3268	klassiek	Classical Music	classical-music
+29105	25448	en	Zwerven door de Renaissance	Roaming the Renaissance	Roaming the Renaissance	zwerven-door-de-renaissance__oud-en	3050	oud	Early Music	early-music
+25448	25448	nl	Zwerven door de Renaissance	Roaming the Renaissance	Zwerven door de Renaissance	zwerven-door-de-renaissance__oud-nl	3048	oud	Oud	oude-muziek
+25681	25681	nl	Muziek uit het nieuwe Europa		Muziek uit het nieuwe Europa	muziek-uit-het-nieuwe-europa	3266	klassiek	Klassiek	klassieke-muziek
+25784	25782	en	Serie Jordi Savall	Series Jordi Savall	Series Jordi Savall	serie-jordi-savall__oud-en	3050	oud	Early Music	early-music
+25782	25782	nl	Serie Jordi Savall	Series Jordi Savall	Serie Jordi Savall	serie-jordi-savall__oud-nl	3048	oud	Oud	oude-muziek
+27502	26670	en	ThE BlessinG ForcE	ThE BlessinG ForcE	ThE BlessinG ForcE	the-blessing-force-pop-en	5193	crosslinks	Crosslinks	crosslinks-en
+27504	26670	en	ThE BlessinG ForcE	ThE BlessinG ForcE	ThE BlessinG ForcE	the-blessing-force-modern-music	3322	modern	Modern Music	modern-music
+26670	26670	nl	ThE BlessinG ForcE	ThE BlessinG ForcE	ThE BlessinG ForcE	the-blessing-force	3324	hedendaags	Hedendaags	hedendaagse-muziek
+27498	26670	nl	ThE BlessinG ForcE	ThE BlessinG ForcE	ThE BlessinG ForcE	the-blessing-force-pop	5191	crosslinks	Crosslinks	crosslinks
+26696	26696	nl	Stars and Stripes		Stars and Stripes	stars-and-stripes	3266	klassiek	Klassiek	klassieke-muziek
+27583	27520	en	Vrije Radicalen	Free Radicals	Free Radicals	vrije-radicalen__wereld-en	16974	wereld	World Music	world-music
+32850	27520	en	Vrije Radicalen	Free Radicals	Free Radicals	vrije-radicalen__modern-en	3322	modern	Modern Music	modern-music
+65421	27520	en	Vrije Radicalen	Free Radicals	Free Radicals	vrije-radicalen__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+27520	27520	nl	Vrije Radicalen	Free Radicals	Vrije Radicalen	vrije-radicalen__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+27522	27520	nl	Vrije Radicalen	Free Radicals	Vrije Radicalen	vrije-radicalen__wereld-nl	16972	wereld	Wereld	wereldmuziek
+32844	27520	nl	Vrije Radicalen	Free Radicals	Vrije Radicalen	vrije-radicalen__modern-nl	3320	modern	Modern	moderne-muziek-nl
+156640	27592	en	Disc-Cover!	Disc-Cover!	Disc-Cover!	disc-cover__wereld-en	16974	wereld	World Music	world-music
+27592	27592	nl	Disc-Cover!	Disc-Cover!	Disc-Cover!	disc-cover__wereld-nl	16972	wereld	Wereld	wereldmuziek
+27653	27645	en	Exitos Musicales	Exitos Musicales	Exitos Musicales	exitos-musicales__wereld-en	16974	wereld	World Music	world-music
+27645	27645	nl	Exitos Musicales	Exitos Musicales	Exitos Musicales	exitos-musicales__wereld-nl	16972	wereld	Wereld	wereldmuziek
+27680	27674	en	New Folk Sounds on Air	New Folk Sounds on Air	New Folk Sounds on Air	new-folk-sounds-on-air__wereld-en	16974	wereld	World Music	world-music
+27674	27674	nl	New Folk Sounds on Air	New Folk Sounds on Air	New Folk Sounds on Air	new-folk-sounds-on-air__wereld-nl	16972	wereld	Wereld	wereldmuziek
+27751	27745	en	Documento	Documento	Documento	documento__oud-en	3050	oud	Early Music	early-music
+27745	27745	nl	Documento	Documento	Documento	documento__oud-nl	3048	oud	Oud	oude-muziek
+27866	27866	nl	Kroniek van de Amsterdamse Muziek		Kroniek van de Amsterdamse Muziek	kroniek-van-de-amsterdamse-muziek	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+27868	27866	nl	Kroniek van de Amsterdamse Muziek		Kroniek van de Amsterdamse Muziek	kroniek-van-de-amsterdamse-muziek-klassieke-muziek	3266	klassiek	Klassiek	klassieke-muziek
+27891	27889	en	Nuove Musiche	Nuove Musiche	Nuove Musiche	nuove-musiche__oud-en	3050	oud	Early Music	early-music
+27889	27889	nl	Nuove Musiche	Nuove Musiche	Nuove Musiche	nuove-musiche__oud-nl	3048	oud	Oud	oude-muziek
+27977	27977	nl	In Memoriam		In Memoriam	in-memoriam-hedendaagse-muziek	3324	hedendaags	Hedendaags	hedendaagse-muziek
+29167	27977	nl	In Memoriam		In Memoriam	in-memoriam-klassieke-muziek	3266	klassiek	Klassiek	klassieke-muziek
+33470	27977	nl	In Memoriam		In Memoriam	in-memoriam-culturele-raakvlakken	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+34494	28224	en	Sonoor	Harmonious	Harmonious	sonoor__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+28224	28224	nl	Sonoor	Harmonious	Sonoor	sonoor__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+28381	28379	en	Vrouwelijke componisten	Female Composers	Female Composers	vrouwelijke-componisten__klassiek-en	3268	klassiek	Classical Music	classical-music
+28379	28379	nl	Vrouwelijke componisten	Female Composers	Vrouwelijke componisten	vrouwelijke-componisten__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+29191	28942	en	JazzNotJazz	JazzNotJazz	JazzNotJazz	jazznotjazz__jazz-en	16768	jazz	Jazz	jazz-en
+28942	28942	nl	JazzNotJazz	JazzNotJazz	JazzNotJazz	jazznotjazz__jazz-nl	16766	jazz	Jazz	jazz
+28972	28966	en	Klassieke Zaken	Classical Matters	Classical Matters	klassieke-zaken__klassiek-en	3268	klassiek	Classical Music	classical-music
+28966	28966	nl	Klassieke Zaken	Classical Matters	Klassieke Zaken	klassieke-zaken__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+28990	28984	en	Bonum est	Bonum Est	Bonum Est	bonum-est__oud-en	3050	oud	Early Music	early-music
+28984	28984	nl	Bonum est	Bonum Est	Bonum est	bonum-est__oud-nl	3048	oud	Oud	oude-muziek
+29160	29158	en	Moments of Modern Jazz	Moments of Modern Jazz	Moments of Modern Jazz	moments-of-modern-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+29158	29158	nl	Moments of Modern Jazz	Moments of Modern Jazz	Moments of Modern Jazz	moments-of-modern-jazz__jazz-nl	16766	jazz	Jazz	jazz
+29295	29293	en	De piano-etude, van oefening tot kunst	The Piano Etude: From Practice to Art	The Piano Etude: From Practice to Art	de-pianoetude-van-oefening-tot-kunst__klassiek-en	3268	klassiek	Classical Music	classical-music
+29293	29293	nl	De piano-etude, van oefening tot kunst	The Piano Etude: From Practice to Art	De piano-etude, van oefening tot kunst	de-pianoetude-van-oefening-tot-kunst__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+29307	29307	nl	NL Symfonisch		NL Symfonisch	nl-symfonisch	3266	klassiek	Klassiek	klassieke-muziek
+29396	29396	nl	Wind Vibes		Wind Vibes	wind-vibes	3266	klassiek	Klassiek	klassieke-muziek
+29922	29922	nl	KlankKleur		KlankKleur	klankkleur	3266	klassiek	Klassiek	klassieke-muziek
+30004	30004	nl	100 jaar GeNeCo		100 jaar GeNeCo	100-jaar-geneco-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+30038	30038	nl	Glans en Glorie		Glans en Glorie	glans-en-glorie	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+30927	30611	en	X-Rated	X-Rated	X-Rated	xrated__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+30611	30611	nl	X-Rated	X-Rated	X-Rated	xrated__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+30624	30624	nl	Bijzondere instrumenten		Bijzondere instrumenten	bijzondere-instrumenten	3266	klassiek	Klassiek	klassieke-muziek
+65543	30764	en	Electronic Frequencies	Electronic Frequencies	Electronic Frequencies	electronic-frequencies__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+30764	30764	nl	Electronic Frequencies	Electronic Frequencies	Electronic Frequencies	electronic-frequencies__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+34288	30790	en	Zwerven door de Barok	Roaming the Baroque	Roaming the Baroque	zwerven-door-de-barok__oud-en	3050	oud	Early Music	early-music
+30790	30790	nl	Zwerven door de Barok	Roaming the Baroque	Zwerven door de Barok	zwerven-door-de-barok__oud-nl	3048	oud	Oud	oude-muziek
+31168	31168	nl	Oorlog en Vrede		Oorlog en Vrede	oorlog-en-vrede	3266	klassiek	Klassiek	klassieke-muziek
+31176	31176	nl	Musica Maluku!		Musica Maluku!	musica-maluku	16972	wereld	Wereld	wereldmuziek
+31186	31184	en	Duke Ellington	Duke Ellington	Duke Ellington	duke-ellington__jazz-en	16768	jazz	Jazz	jazz-en
+31184	31184	nl	Duke Ellington	Duke Ellington	Duke Ellington	duke-ellington__jazz-nl	16766	jazz	Jazz	jazz
+31346	31189	en	Jazz Piano	Jazz Piano	Jazz Piano	jazz-piano__jazz-en	16768	jazz	Jazz	jazz-en
+31189	31189	nl	Jazz Piano	Jazz Piano	Jazz Piano	jazz-piano__jazz-nl	16766	jazz	Jazz	jazz
+35091	31192	en	Jazz Carrousel	Jazz Carrousel	Jazz Carrousel	jazz-carrousel__jazz-en	16768	jazz	Jazz	jazz-en
+31192	31192	nl	Jazz Carrousel	Jazz Carrousel	Jazz Carrousel	jazz-carrousel__jazz-nl	16766	jazz	Jazz	jazz
+34184	31194	en	Vocal Jazz	Vocal Jazz	Vocal Jazz	vocale-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+31194	31194	nl	Vocal Jazz	Vocal Jazz	Vocal Jazz	vocale-jazz__jazz-nl	16766	jazz	Jazz	jazz
+31214	31212	en	L’Esprit Baroque	L’Esprit Baroque	L’Esprit Baroque	lesprit-baroque__oud-en	3050	oud	Early Music	early-music
+31212	31212	nl	L’Esprit Baroque	L’Esprit Baroque	L’Esprit Baroque	lesprit-baroque__oud-nl	3048	oud	Oud	oude-muziek
+31306	31302	en	Kraak Helder	Clear as Crystal	Clear as Crystal	kraak-helder__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+66723	31302	en	Kraak Helder	Clear as Crystal	Clear as Crystal	kraak-helder__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+31302	31302	nl	Kraak Helder	Clear as Crystal	Kraak Helder	kraak-helder__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+60281	31302	nl	Kraak Helder	Clear as Crystal	Kraak Helder	kraak-helder__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+31314	31314	nl	Het restje van de nacht		Het restje van de nacht	het-restje-van-de-nacht	17030	nachten	Nachten	nachten
+31356	31356	nl	Mexico		Mexico	mexico	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+34415	31363	en	Antiqua versus Nova	Antiqua versus Nova	Antiqua versus Nova	antiqua-versus-nova__oud-en	3050	oud	Early Music	early-music
+31363	31363	nl	Antiqua versus Nova	Antiqua versus Nova	Antiqua versus Nova	antiqua-versus-nova__oud-nl	3048	oud	Oud	oude-muziek
+31366	31366	nl	Vitezslav Novak		Vitezslav Novak	vitezslav-novak	3266	klassiek	Klassiek	klassieke-muziek
+31522	31522	en	Een vroege wandeling	An early morning stroll	An early morning stroll	een-vroege-wandeling__klassiek-en	3268	klassiek	Classical Music	classical-music
+45332	31522	nl	Een vroege wandeling	An early morning stroll	Een vroege wandeling	een-vroege-wandeling__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+33486	31606	en	Musicians Corner	Musicians Corner	Musicians Corner	musicians-corner__jazz-en	16768	jazz	Jazz	jazz-en
+31606	31606	nl	Musicians Corner	Musicians Corner	Musicians Corner	musicians-corner__jazz-nl	16766	jazz	Jazz	jazz
+31742	31742	nl	Vredenburg Actueel		Vredenburg Actueel	vredenburg-actueel	3266	klassiek	Klassiek	klassieke-muziek
+32301	31795	en	Tussen Concertzaal en Filmtheater	Between Concert Halls and Movie Theatres	Between Concert Halls and Movie Theatres	tussen-concertzaal-en-filmtheater__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+40119	31795	en	Tussen Concertzaal en Filmtheater	Between Concert Halls and Movie Theatres	Between Concert Halls and Movie Theatres	between-concert-halls-and-movie-theatres-classical-music	3268	klassiek	Classical Music	classical-music
+31795	31795	nl	Tussen Concertzaal en Filmtheater	Between Concert Halls and Movie Theatres	Tussen Concertzaal en Filmtheater	tussen-concertzaal-en-filmtheater__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+31963	31963	nl	Latijns-Amerika en Curaçao		Latijns-Amerika en Curaçao	latijns-amerika-en-curacao	3266	klassiek	Klassiek	klassieke-muziek
+34267	32102	en	Radio Monalisa	Radio Monalisa	Radio Monalisa	radio-monalisa__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+58274	32102	en	Radio Monalisa	Radio Monalisa	Radio Monalisa	radio-monalisa__modern-en	3322	modern	Modern Music	modern-music
+218400	32102	en	Radio Monalisa	Radio Monalisa	Radio Monalisa	radio-monalisa-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+32102	32102	nl	Radio Monalisa	Radio Monalisa	Radio Monalisa	radio-monalisa__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+65978	32102	nl	Radio Monalisa	Radio Monalisa	Radio Monalisa	radio-monalisa__modern-nl	3320	modern	Modern	moderne-muziek-nl
+218398	32102	nl	Radio Monalisa	Radio Monalisa	Radio Monalisa	radio-monalisa	3324	hedendaags	Hedendaags	hedendaagse-muziek
+65485	32233	en	X-Ray	X-Ray	X-Ray	xray__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+32233	32233	nl	X-Ray	X-Ray	X-Ray	xray__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+32290	32290	en		Master - Pupil	Master - Pupil	master-pupil	3268	klassiek	Classical Music	classical-music
+34609	32588	en	Kairos	Kairos	Kairos	kairos__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+34611	32588	en	Kairos	Kairos	Kairos	kairos__modern-en	3326	hedendaags	Contemporary Music	contemporary-music
+66293	32588	en	Kairos	Kairos	Kairos	kairos__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+32588	32588	nl	Kairos	Kairos	Kairos	kairos__crosslinks-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+127196	32588	nl	Kairos	Kairos	Kairos	kairos__hedendaags-nl	5191	crosslinks	Crosslinks	crosslinks
+205324	32588	nl	Kairos	Kairos	Kairos	kairos__modern-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+32600	32600	nl	Mondriaan Kwartet		Mondriaan Kwartet	mondriaan-kwartet	3266	klassiek	Klassiek	klassieke-muziek
+32658	32658	nl	The English Song		The English Song	the-english-song	3266	klassiek	Klassiek	klassieke-muziek
+35085	33005	en	Classic Jazz	Classic Jazz	Classic Jazz	classic-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+33005	33005	nl	Classic Jazz	Classic Jazz	Classic Jazz	classic-jazz__jazz-nl	16766	jazz	Jazz	jazz
+33174	33166	en	Geen Dag zonder Bach	Bach Ad Infinitum	Bach Ad Infinitum	geen-dag-zonder-bach__klassiek-en	3268	klassiek	Classical Music	classical-music
+33176	33166	en	Geen Dag zonder Bach	Bach Ad Infinitum	Bach Ad Infinitum	geen-dag-zonder-bach__oud-en	3050	oud	Early Music	early-music
+33166	33166	nl	Geen Dag zonder Bach	Bach Ad Infinitum	Geen Dag zonder Bach	geen-dag-zonder-bach__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+33168	33166	nl	Geen Dag zonder Bach	Bach Ad Infinitum	Geen Dag zonder Bach	geen-dag-zonder-bach__oud-nl	3048	oud	Oud	oude-muziek
+33214	33212	en	De Zweedse symfonie	The Swedish Symphony	The Swedish Symphony	de-zweedse-symfonie__klassiek-en	3268	klassiek	Classical Music	classical-music
+33212	33212	nl	De Zweedse symfonie	The Swedish Symphony	De Zweedse symfonie	de-zweedse-symfonie__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+33416	33414	en	De Vroege Wereld	The Early World	The Early World	de-vroege-wereld__wereld-en	16974	wereld	World Music	world-music
+33414	33414	nl	De Vroege Wereld	The Early World	De Vroege Wereld	de-vroege-wereld__wereld-nl	16972	wereld	Wereld	wereldmuziek
+34172	33443	en	Front Runnin’	Front Runnin’	Front Runnin’	front-runnin__jazz-en	16768	jazz	Jazz	jazz-en
+33443	33443	nl	Front Runnin’	Front Runnin’	Front Runnin’	front-runnin__jazz-nl	16766	jazz	Jazz	jazz
+34281	34016	en	Vredenburg live!	Vredenburg live!	Vredenburg live!	vredenburg-live__klassiek-en	16974	wereld	World Music	world-music
+34016	34016	nl	Vredenburg live!	Vredenburg live!	Vredenburg live!	vredenburg-live__klassiek-nl	16972	wereld	Wereld	wereldmuziek
+34022	34020	en	Fortepiano	Fortepiano	Fortepiano	fortepiano__klassiek-en	3268	klassiek	Classical Music	classical-music
+34020	34020	nl	Fortepiano	Fortepiano	Fortepiano	fortepiano__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+34028	34028	nl	Passiemuziek		Passiemuziek	passiemuziek	3266	klassiek	Klassiek	klassieke-muziek
+34030	34028	nl	Passiemuziek		Passiemuziek	passiemuziek-culturele-raakvlakken	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+34329	34329	en	Chanson	Chanson	Chanson	chanson__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+58263	34329	en	Chanson	Chanson	Chanson	chanson__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+58261	34329	nl	Chanson	Chanson	Chanson	chanson__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+59782	34329	nl	Chanson	Chanson	Chanson	chanson__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+34476	34476	en		Present Day Music	Present Day Music	present-day-music	3322	modern	Modern Music	modern-music
+34478	34476	en		Present Day Music	Present Day Music	present-day-music-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+37279	34476	en		Present Day Music	Present Day Music	present-day-music-classical-music	3268	klassiek	Classical Music	classical-music
+34537	34531	en	Liszt & Wagner	Liszt & Wagner	Liszt &amp; Wagner	liszt-en-wagner__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+34531	34531	nl	Liszt & Wagner	Liszt & Wagner	Liszt &amp; Wagner	liszt-en-wagner__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+34798	34796	en	Acoustic Roots	Acoustic Roots	Acoustic Roots	acoustic-roots__wereld-en	16974	wereld	World Music	world-music
+34796	34796	nl	Acoustic Roots	Acoustic Roots	Acoustic Roots	acoustic-roots__wereld-nl	16972	wereld	Wereld	wereldmuziek
+35177	34861	en	Dr. Klangendum	Dr. Klangendum	Dr. Klangendum	dr-klangendum__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+34861	34861	nl	Dr. Klangendum	Dr. Klangendum	Dr. Klangendum	dr-klangendum__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+34911	34911	nl	Wagner 200		Wagner 200	wagner-200	3266	klassiek	Klassiek	klassieke-muziek
+35076	35076	nl	Koninkrijk der Nederlanden 200 jaar!		Koninkrijk der Nederlanden 200 jaar!	koninkrijk-der-nederlanden-200-jaar	3266	klassiek	Klassiek	klassieke-muziek
+35229	35227	en	De Musyck Kamer	The Musyck Chamber	The Musyck Chamber	de-musyck-kamer__oud-en	3050	oud	Early Music	early-music
+35227	35227	nl	De Musyck Kamer	The Musyck Chamber	De Musyck Kamer	de-musyck-kamer__oud-nl	3048	oud	Oud	oude-muziek
+35637	35629	en	Framework 1	Framework 1	Framework 1	framework__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+204657	35629	en	Framework 1	Framework 1	Framework 1	framework-1-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+35629	35629	nl	Framework 1	Framework 1	Framework 1	framework__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+204655	35629	nl	Framework 1	Framework 1	Framework 1	framework-1	3324	hedendaags	Hedendaags	hedendaagse-muziek
+36429	35712	en	Inventions For Radio	Inventions For Radio	Inventions For Radio	inventions-for-radio__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+35712	35712	nl	Inventions For Radio	Inventions For Radio	Inventions For Radio	inventions-for-radio__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+37327	36005	en	Wereldmuziek NL!	World Music NL	World Music NL	wereldmuziek-nl__wereld-en	16974	wereld	World Music	world-music
+36005	36005	nl	Wereldmuziek NL!	World Music NL	Wereldmuziek NL!	wereldmuziek-nl__wereld-nl	16972	wereld	Wereld	wereldmuziek
+36767	36218	en	100 jaar jazz !	100 years of jazz!	100 years of jazz!	100-jaar-jazz-__jazz-en	16768	jazz	Jazz	jazz-en
+36218	36218	nl	100 jaar jazz !	100 years of jazz!	100 jaar jazz !	100-jaar-jazz-__jazz-nl	16766	jazz	Jazz	jazz
+36583	36581	en	Cello & contrabas	Violoncello & Double bass	Violoncello &amp; Double bass	cello-en-contrabas__klassiek-en	3268	klassiek	Classical Music	classical-music
+36581	36581	nl	Cello & contrabas	Violoncello & Double bass	Cello &amp; contrabas	cello-en-contrabas__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+52952	36830	en	De Échte Chopin	The Real Chopin	The Real Chopin	de-echte-chopin__klassiek-en	3268	klassiek	Classical Music	classical-music
+36830	36830	nl	De Échte Chopin	The Real Chopin	De Échte Chopin	de-echte-chopin__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+36845	36845	nl	(a)Live & (RE)turn To Zender		(a)Live &amp; (RE)turn To Zender	alive-return-to-zender-moderne-muziek	3320	modern	Modern	moderne-muziek-nl
+36939	36931	en	Donemus	Donemus	Donemus	donemus-modern-music	3322	modern	Modern Music	modern-music
+36941	36931	en	Donemus	Donemus	Donemus	donemus__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+36931	36931	nl	Donemus	Donemus	Donemus	donemus	3320	modern	Modern	moderne-muziek-nl
+36933	36931	nl	Donemus	Donemus	Donemus	donemus__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+37584	37576	en	Zuiver klassiek	Absolutely Classical	Absolutely Classical	zuiver-klassiek__klassiek-en	3268	klassiek	Classical Music	classical-music
+37576	37576	nl	Zuiver klassiek	Absolutely Classical	Zuiver klassiek	zuiver-klassiek__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+37901	37895	en	Madge-point	Madge-point	Madge-point	madgepoint__klassiek-en	3268	klassiek	Classical Music	classical-music
+37895	37895	nl	Madge-point	Madge-point	Madge-point	madgepoint__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+38469	38467	en	W.O. I	World War I	World War I	wo-i__klassiek-en	3268	klassiek	Classical Music	classical-music
+38467	38467	nl	W.O. I	World War I	W.O. I	wo-i__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+41697	39184	en	Franz Liszt, episodes uit het leven van een artiest	Franz Liszt, episodes from the life of an artist	Franz Liszt, episodes from the life of an artist	franz-liszt-episodes-uit-het-leven-van-een-artiest__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+44827	39184	en	Franz Liszt, episodes uit het leven van een artiest	Franz Liszt, episodes from the life of an artist	Franz Liszt, episodes from the life of an artist	franz-liszt-episodes-uit-het-leven-van-een-artiest__klassiek-en	3268	klassiek	Classical Music	classical-music
+39184	39184	nl	Franz Liszt, episodes uit het leven van een artiest	Franz Liszt, episodes from the life of an artist	Franz Liszt, episodes uit het leven van een artiest	franz-liszt-episodes-uit-het-leven-van-een-artiest__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+43090	39184	nl	Franz Liszt, episodes uit het leven van een artiest	Franz Liszt, episodes from the life of an artist	Franz Liszt, episodes uit het leven van een artiest	franz-liszt-episodes-uit-het-leven-van-een-artiest__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+39608	39573	en	75 Jaar Blue Note	75 Years of Blue Note	75 Years of Blue Note	75-jaar-blue-note__jazz-en	16768	jazz	Jazz	jazz-en
+39573	39573	nl	75 Jaar Blue Note	75 Years of Blue Note	75 Jaar Blue Note	75-jaar-blue-note__jazz-nl	16766	jazz	Jazz	jazz
+39957	39955	en	Acoustic Moods	Acoustic Moods	Acoustic Moods	acoustic-moods__wereld-en	16974	wereld	World Music	world-music
+39955	39955	nl	Acoustic Moods	Acoustic Moods	Acoustic Moods	acoustic-moods__wereld-nl	16972	wereld	Wereld	wereldmuziek
+40286	40284	en	Historisch fundament voor Tivoli Vredenburg	Historical fundament for Tivoli Vredenburg	Historical fundament for Tivoli Vredenburg	historisch-fundament-voor-tivoli-vredenburg__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+40284	40284	nl	Historisch fundament voor Tivoli Vredenburg	Historical fundament for Tivoli Vredenburg	Historisch fundament voor Tivoli Vredenburg	historisch-fundament-voor-tivoli-vredenburg__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+65577	40975	en	Componist van de maand	Composer of the Month	Composer of the Month	componist-van-de-maand__klassiek-en	3268	klassiek	Classical Music	classical-music
+40975	40975	nl	Componist van de maand	Composer of the Month	Componist van de maand	componist-van-de-maand__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+41079	41077	en	Joseph Boulogne	Joseph Boulogne	Joseph Boulogne	joseph-boulogne__klassiek-en	3268	klassiek	Classical Music	classical-music
+41077	41077	nl	Joseph Boulogne	Joseph Boulogne	Joseph Boulogne	joseph-boulogne__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+41848	41842	en	Café Sonore	Café Sonore	Café Sonore	cafe-sonore__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+41842	41842	nl	Café Sonore	Café Sonore	Café Sonore	cafe-sonore__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+42063	42063	nl	In zee met Jean Cras		In zee met Jean Cras	in-zee-met-jean-cras	3266	klassiek	Klassiek	klassieke-muziek
+42294	42292	en	Onbekend is Onbemind?	Unknown is Unloved?	Unknown is Unloved?	onbekend-is-onbemind__klassiek-en	3268	klassiek	Classical Music	classical-music
+42292	42292	nl	Onbekend is Onbemind?	Unknown is Unloved?	Onbekend is Onbemind?	onbekend-is-onbemind__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+42542	42538	en	Panorama De Leeuw	Panorama De Leeuw	Panorama De Leeuw	panorama-de-leeuw-cultural-interfaces	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+66067	42538	en	Panorama De Leeuw	Panorama De Leeuw	Panorama De Leeuw	panorama-de-leeuw-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+42538	42538	nl	Panorama De Leeuw	Panorama De Leeuw	Panorama De Leeuw	panorama-de-leeuw__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+77541	42538	nl	Panorama De Leeuw	Panorama De Leeuw	Panorama De Leeuw	panorama-de-leeuw__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+42647	42647	en		Taking the plunge with Jean Cras	Taking the plunge with Jean Cras	taking-the-plunge-with-jean-cras	3268	klassiek	Classical Music	classical-music
+42652	42650	en	Pentatunes	Pentatunes	Pentatunes	pentatunes__klassiek-en	3268	klassiek	Classical Music	classical-music
+42650	42650	nl	Pentatunes	Pentatunes	Pentatunes	pentatunes__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+43069	43067	en	Liederen	Songs	Songs	liederen__klassiek-en	3268	klassiek	Classical Music	classical-music
+43067	43067	nl	Liederen	Songs	Liederen	liederen__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+44143	43309	en	Radio Rondje Evenaar	Radio Around the Globe	Radio Around the Globe	radio-rondje-evenaar__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+43309	43309	nl	Radio Rondje Evenaar	Radio Around the Globe	Radio Rondje Evenaar	radio-rondje-evenaar__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+43400	43400	nl	Luister tienen		Luister tienen	luister-tienen	3266	klassiek	Klassiek	klassieke-muziek
+43986	43984	en	Take Two	Take Two	Take Two	take-two__jazz-en	16768	jazz	Jazz	jazz-en
+43984	43984	nl	Take Two	Take Two	Take Two	take-two__jazz-nl	16766	jazz	Jazz	jazz
+44097	44097	en		Top list of magazine Luister	Top list of magazine Luister	top-list-of-magazine-luister	3268	klassiek	Classical Music	classical-music
+44343	44335	en	Latin Jazz	Latin Jazz	Latin Jazz	latin-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+44335	44335	nl	Latin Jazz	Latin Jazz	Latin Jazz	latin-jazz__jazz-nl	16766	jazz	Jazz	jazz
+44474	44466	en	Tango: lied van Buenos Aires	Tango: Song of Buenos Aires	Tango: Song of Buenos Aires	tango-lied-van-buenos-aires__wereld-en	16974	wereld	World Music	world-music
+44466	44466	nl	Tango: lied van Buenos Aires	Tango: Song of Buenos Aires	Tango: lied van Buenos Aires	tango-lied-van-buenos-aires__wereld-nl	16972	wereld	Wereld	wereldmuziek
+45044	44821	en	Concertzender Actueel	Concertzender Now	Concertzender Now	concertzender-actueel__klassiek-en	3268	klassiek	Classical Music	classical-music
+45046	44821	en	Concertzender Actueel	Concertzender Now	Concertzender Now	concertzender-actueel__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+44821	44821	nl	Concertzender Actueel	Concertzender Now	Concertzender Actueel	concertzender-actueel__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+44823	44821	nl	Concertzender Actueel	Concertzender Now	Concertzender Actueel	concertzender-actueel__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+45022	45014	en	American Highways	American Highways	American Highways	american-highways__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+45024	45014	en	American Highways	American Highways	American Highways	american-highways__modern-en	3322	modern	Modern Music	modern-music
+45014	45014	nl	American Highways	American Highways	American Highways	american-highways__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+45016	45014	nl	American Highways	American Highways	American Highways	american-highways__modern-nl	3320	modern	Modern	moderne-muziek-nl
+66030	45186	en	Herkansing voor Hummel	Hummel revisited	Hummel revisited	herkansing-voor-hummel__klassiek-en	3268	klassiek	Classical Music	classical-music
+45186	45186	nl	Herkansing voor Hummel	Hummel revisited	Herkansing voor Hummel	herkansing-voor-hummel__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+45776	45525	en	CD van de Week	CD of the Week	CD of the Week	cd-van-de-week__klassiek-en	3268	klassiek	Classical Music	classical-music
+45525	45525	nl	CD van de Week	CD of the Week	CD van de Week	cd-van-de-week__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+77720	45750	en	Nieuwe Muziek	New Music	New Music	nieuwe-muziek__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+45750	45750	nl	Nieuwe Muziek	New Music	Nieuwe Muziek	nieuwe-muziek__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+47212	47206	en	Space Exposure	Space Exposure	Space Exposure	space-exposure__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+47206	47206	nl	Space Exposure	Space Exposure	Space Exposure	space-exposure__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+47717	47455	en	Nikolaj Mjaskovski	Nikolai Myaskovsky	Nikolai Myaskovsky	nikolaj-mjaskovski__klassiek-en	3268	klassiek	Classical Music	classical-music
+47455	47455	nl	Nikolaj Mjaskovski	Nikolai Myaskovsky	Nikolaj Mjaskovski	nikolaj-mjaskovski__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+49486	49486	en	Klankcafé	The Sound Café	The Sound Café	klankcafe__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+77569	49486	en	Klankcafé	The Sound Café	The Sound Café	klankcafe__klassiek-en	3268	klassiek	Classical Music	classical-music
+58231	49486	nl	Klankcafé	The Sound Café	Klankcafé	klankcafe__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+66465	49486	nl	Klankcafé	The Sound Café	Klankcafé	klankcafe__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+50600	50598	en	Damas del Tango	Damas del Tango	Damas del Tango	damas-del-tango__wereld-en	16974	wereld	World Music	world-music
+50598	50598	nl	Damas del Tango	Damas del Tango	Damas del Tango	damas-del-tango__wereld-nl	16972	wereld	Wereld	wereldmuziek
+50702	50700	en	Ujazz	Ujazz	Ujazz	ujazz__jazz-en	16768	jazz	Jazz	jazz-en
+50700	50700	nl	Ujazz	Ujazz	Ujazz	ujazz__jazz-nl	16766	jazz	Jazz	jazz
+53866	53856	en	Radio Resistencia	Radio Resistencia	Radio Resistencia	radio-resistencia__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+58299	53856	en	Radio Resistencia	Radio Resistencia	Radio Resistencia	radio-resistencia__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+53856	53856	nl	Radio Resistencia	Radio Resistencia	Radio Resistencia	radio-resistencia__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+58297	53856	nl	Radio Resistencia	Radio Resistencia	Radio Resistencia	radio-resistencia__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+57462	54158	en	Open Doek	Curtain Up	Curtain Up	open-doek__opera-en	17472	opera	Opera	opera-en
+77510	54158	en	Open Doek	Curtain Up	Curtain Up	open-doek__klassiek-en	3268	klassiek	Classical Music	classical-music
+54158	54158	nl	Open Doek	Curtain Up	Open Doek	open-doek__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+55350	55346	en	Sensenta	Sensenta	Sensenta	sensenta__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+55352	55346	en	Sensenta	Sensenta	Sensenta	sensenta__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+55346	55346	nl	Sensenta	Sensenta	Sensenta	sensenta__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+55348	55346	nl	Sensenta	Sensenta	Sensenta	sensenta__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+57293	55668	en	Sound the Trumpet, Strike the Viol!	Sound the Trumpet, Strike the Viol!	Sound the Trumpet, Strike the Viol!	sound-the-trumpet-strike-the-viol__oud-en	3050	oud	Early Music	early-music
+55668	55668	nl	Sound the Trumpet, Strike the Viol!	Sound the Trumpet, Strike the Viol!	Sound the Trumpet, Strike the Viol!	sound-the-trumpet-strike-the-viol__oud-nl	3048	oud	Oud	oude-muziek
+58073	58073	nl	Opera Avond		Opera Avond	opera-avond	17470	opera	Opera	opera
+58075	58075	nl	WereldMuze		WereldMuze	wereldmuze	16972	wereld	Wereld	wereldmuziek
+59717	59715	en	Koninklijk Filharmonisch Orkest van Luik	Royal Philharmonic Orchestra of Liege	Royal Philharmonic Orchestra of Liege	koninklijk-filharmonisch-orkest-van-luik__klassiek-en	3268	klassiek	Classical Music	classical-music
+59715	59715	nl	Koninklijk Filharmonisch Orkest van Luik	Royal Philharmonic Orchestra of Liege	Koninklijk Filharmonisch Orkest van Luik	koninklijk-filharmonisch-orkest-van-luik__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+59745	59743	en	Vrije Radicalen / Folk It!	Free Radicals / Folk It!	Free Radicals / Folk It!	vrije-radicalen--folk-it__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+59743	59743	nl	Vrije Radicalen / Folk It!	Free Radicals / Folk It!	Vrije Radicalen / Folk It!	vrije-radicalen--folk-it__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+66309	61326	en	Brazil In A Nutshell	Brazil in a Nutshell	Brazil in a Nutshell	brazil-in-a-nutshell__wereld-en	16974	wereld	World Music	world-music
+61326	61326	nl	Brazil In A Nutshell	Brazil in a Nutshell	Brazil In A Nutshell	brazil-in-a-nutshell__wereld-nl	16972	wereld	Wereld	wereldmuziek
+62224	62222	en	Die sanck een Liedt	Thou singest ye carol	Thou singest ye carol	die-sanck-een-liedt__klassiek-en	3268	klassiek	Classical Music	classical-music
+62222	62222	nl	Die sanck een Liedt	Thou singest ye carol	Die sanck een Liedt	die-sanck-een-liedt__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+62278	62276	en	Radio Romantica	Radio Romantica	Radio Romantica	radio-romantica__klassiek-en	3268	klassiek	Classical Music	classical-music
+62276	62276	nl	Radio Romantica	Radio Romantica	Radio Romantica	radio-romantica__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+66024	62403	en	Opera in de 20ste eeuw	Opera in the 20th century	Opera in the 20th century	opera-in-de-20ste-eeuw__klassiek-en	3268	klassiek	Classical Music	classical-music
+78210	62403	en	Opera in de 20ste eeuw	Opera in the 20th century	Opera in the 20th century	opera-in-de-20ste-eeuw__opera-en	17472	opera	Opera	opera-en
+101478	62403	en	Opera in de 20ste eeuw	Opera in the 20th century	Opera in the 20th century	opera-in-de-20ste-eeuw__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+124682	62403	en	Opera in de 20ste eeuw	Opera in the 20th century	Opera in the 20th century	opera-in-de-20ste-eeuw__modern-en	3322	modern	Modern Music	modern-music
+62403	62403	nl	Opera in de 20ste eeuw	Opera in the 20th century	Opera in de 20ste eeuw	opera-in-de-20ste-eeuw__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+78208	62403	nl	Opera in de 20ste eeuw	Opera in the 20th century	Opera in de 20ste eeuw	opera-in-de-20ste-eeuw__opera-nl	17470	opera	Opera	opera
+101476	62403	nl	Opera in de 20ste eeuw	Opera in the 20th century	Opera in de 20ste eeuw	opera-in-de-20ste-eeuw__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+124680	62403	nl	Opera in de 20ste eeuw	Opera in the 20th century	Opera in de 20ste eeuw	opera-in-de-20ste-eeuw__modern-nl	3320	modern	Modern	moderne-muziek-nl
+63664	63664	en	Disco Volante	Disco Volante	Disco Volante	disco-volante__wereld-en	16974	wereld	World Music	world-music
+63666	63664	nl	Disco Volante	Disco Volante	Disco Volante	disco-volante__wereld-nl	16972	wereld	Wereld	wereldmuziek
+63845	63843	en	Radio Muziek-essay	Radio Music Essay	Radio Music Essay	radio-muziek-essay__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+63843	63843	nl	Radio Muziek-essay	Radio Music Essay	Radio Muziek-essay	radio-muziek-essay__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+64053	64051	en	Terra Incognita	Terra Incognita	Terra Incognita	terra-incognita__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+64051	64051	nl	Terra Incognita	Terra Incognita	Terra Incognita	terra-incognita__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+64844	64844	en	Orgelwerk	Organ Work	Organ Work	orgelwerk__oud-en	3050	oud	Early Music	early-music
+66370	64844	nl	Orgelwerk	Organ Work	Orgelwerk	orgelwerk__oud-nl	3048	oud	Oud	oude-muziek
+67876	67874	en	Masumi Nagasawa en haar bijzondere harpen	Masumi Nagasawa and her special harps	Masumi Nagasawa and her special harps	masumi-nagasawa-en-haar-bijzondere-harpen__klassiek-en	3268	klassiek	Classical Music	classical-music
+67874	67874	nl	Masumi Nagasawa en haar bijzondere harpen	Masumi Nagasawa and her special harps	Masumi Nagasawa en haar bijzondere harpen	masumi-nagasawa-en-haar-bijzondere-harpen__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+69532	69530	en	Three of a Kind	Three of a Kind	Three of a Kind	three-of-a-kind__jazz-en	16768	jazz	Jazz	jazz-en
+69530	69530	nl	Three of a Kind	Three of a Kind	Three of a Kind	three-of-a-kind__jazz-nl	16766	jazz	Jazz	jazz
+70953	70949	en	DreamScenes	DreamScenes	DreamScenes	dreamscenes__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+70955	70949	en	DreamScenes	DreamScenes	DreamScenes	dreamscenes__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+70949	70949	nl	DreamScenes	DreamScenes	DreamScenes	dreamscenes__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+70951	70949	nl	DreamScenes	DreamScenes	DreamScenes	dreamscenes__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+72886	72884	en	Carib Calling	Carib Calling	Carib Calling	carib-calling__wereld-en	16974	wereld	World Music	world-music
+72884	72884	nl	Carib Calling	Carib Calling	Carib Calling	carib-calling__wereld-nl	16972	wereld	Wereld	wereldmuziek
+76467	76465	en	Groove & Grease	Groove & Grease	Groove &amp; Grease	groove-en-grease__jazz-en	16768	jazz	Jazz	jazz-en
+76465	76465	nl	Groove & Grease	Groove & Grease	Groove &amp; Grease	groove-en-grease__jazz-nl	16766	jazz	Jazz	jazz
+76721	76719	en	Rush Hour	Rush Hour	Rush Hour	rush-hour__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+77191	76719	en	Rush Hour	Rush Hour	Rush Hour	rush-hour__modern-en	3322	modern	Modern Music	modern-music
+76719	76719	nl	Rush Hour	Rush Hour	Rush Hour	rush-hour__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+77188	76719	nl	Rush Hour	Rush Hour	Rush Hour	rush-hour__modern-nl	3320	modern	Modern	moderne-muziek-nl
+77593	77591	en	American Highways | Rush Hour	American Highways | Rush Hour	American Highways | Rush Hour	american-highways-rush-hour__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+77902	77591	en	American Highways | Rush Hour	American Highways | Rush Hour	American Highways | Rush Hour	american-highways-rush-hour__modern-en	3322	modern	Modern Music	modern-music
+77591	77591	nl	American Highways | Rush Hour	American Highways | Rush Hour	American Highways | Rush Hour	american-highways-rush-hour__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+77900	77591	nl	American Highways | Rush Hour	American Highways | Rush Hour	American Highways | Rush Hour	american-highways-rush-hour__modern-nl	3320	modern	Modern	moderne-muziek-nl
+82268	82268	nl	Geniale Muziekvrienden		Geniale Muziekvrienden	geniale-muziekvrienden_klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+82270	82270	en		Genius Music Friends	Genius Music Friends	geniale-muziekvrienden_klassiek-en	3268	klassiek	Classical Music	classical-music
+89314	83175	en	Anadolu Havasi	Anadolu Havasi	Anadolu Havasi	anadolu-havasi__wereld-en	16974	wereld	World Music	world-music
+83175	83175	nl	Anadolu Havasi	Anadolu Havasi	Anadolu Havasi	anadolu-havasi__wereld-nl	16972	wereld	Wereld	wereldmuziek
+89716	89714	en	Portamento	Portamento	Portamento	portamento-crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+89714	89714	nl	Portamento	Portamento	Portamento	portamento__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+102309	102307	en	Het Strijkkwartet	The String Quartet	The String Quartet	het-strijkkwartet__klassiek-en	3268	klassiek	Classical Music	classical-music
+102307	102307	nl	Het Strijkkwartet	The String Quartet	Het Strijkkwartet	het-strijkkwartet__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+106111	106109	en	Tango Fusión	Tango Fusión	Tango Fusión	tango-fusion__wereld-en	16974	wereld	World Music	world-music
+106109	106109	nl	Tango Fusión	Tango Fusión	Tango Fusión	tango-fusion__wereld-nl	16972	wereld	Wereld	wereldmuziek
+108374	108372	en	Wereldmuziek Club	World Music Club	World Music Club	wereldmuziek-club__wereld-en	16974	wereld	World Music	world-music
+108372	108372	nl	Wereldmuziek Club	World Music Club	Wereldmuziek Club	wereldmuziek-club__wereld-nl	16972	wereld	Wereld	wereldmuziek
+116293	116291	en	Een Os op het Dak	An Ox on the Roof	An Ox on the Roof	een-os-op-het-dak__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+116297	116291	en	Een Os op het Dak	An Ox on the Roof	An Ox on the Roof	een-os-op-het-dak__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+116291	116291	nl	Een Os op het Dak	An Ox on the Roof	Een Os op het Dak	een-os-op-het-dak__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+116295	116291	nl	Een Os op het Dak	An Ox on the Roof	Een Os op het Dak	een-os-op-het-dak__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+124213	124211	en	El Mundo	El Mundo	El Mundo	el-mundo__wereld-en	16974	wereld	World Music	world-music
+124211	124211	nl	El Mundo	El Mundo	El Mundo	el-mundo__wereld-nl	16972	wereld	Wereld	wereldmuziek
+125416	125414	en	CZ-Archief	CZ-Archive	CZ-Archive	cz-archief__raakvlakken-en	17244	raakvlakken	Cultural Interfaces	cultural-interfaces
+125414	125414	nl	CZ-Archief	CZ-Archive	CZ-Archief	cz-archief__raakvlakken-nl	17242	raakvlakken	Raakvlakken	culturele-raakvlakken
+126019	126019	nl	De Modernen		De Modernen	de-modernen	3324	hedendaags	Hedendaags	hedendaagse-muziek
+126021	126021	en		The Modernists	The Modernists	the-modernists	3326	hedendaags	Contemporary Music	contemporary-music
+126262	126262	en		The Night: Contemporary	The Night: Contemporary	the-night-contemporary	3326	hedendaags	Contemporary Music	contemporary-music
+126744	126742	en	Willem Brons presenteert	Willem Brons presents	Willem Brons presents	willem-brons-presenteert__klassiek-en	3268	klassiek	Classical Music	classical-music
+126742	126742	nl	Willem Brons presenteert	Willem Brons presents	Willem Brons presenteert	willem-brons-presenteert__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+127171	127169	en	Zwerven door de Klassieke Periode	Roaming The Classical Period	Roaming The Classical Period	zwerven-door-de-klassieke-periode__klassiek-en	3268	klassiek	Classical Music	classical-music
+127221	127169	en	Zwerven door de Klassieke Periode	Roaming The Classical Period	Roaming The Classical Period	roaming-the-classical-period	3050	oud	Early Music	early-music
+203066	127169	en	Zwerven door de Klassieke Periode	Roaming The Classical Period	Roaming The Classical Period	zwerven-door-de-klassieke-periode__oud-en	3050	oud	Early Music	early-music
+127169	127169	nl	Zwerven door de Klassieke Periode	Roaming The Classical Period	Zwerven door de Klassieke Periode	zwerven-door-de-klassieke-periode__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+203064	127169	nl	Zwerven door de Klassieke Periode	Roaming The Classical Period	Zwerven door de Klassieke Periode	zwerven-door-de-klassieke-periode__oud-nl	3048	oud	Oud	oude-muziek
+128444	128442	en	Concertzender Napels	Concertzender Naples	Concertzender Naples	concertzender-napels__oud-en	3050	oud	Early Music	early-music
+128442	128442	nl	Concertzender Napels	Concertzender Naples	Concertzender Napels	concertzender-napels__oud-nl	3048	oud	Oud	oude-muziek
+132267	132267	nl	Leve Beethoven!		Leve Beethoven!	leve_beethoven__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+132269	132269	en		Long Live Beethoven!	Long Live Beethoven!	leve-beethoven__klassiek-en	3268	klassiek	Classical Music	classical-music
+132695	132693	en	Winter Solstice	Winter Solstice	Winter Solstice	winter-solstice__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+132693	132693	nl	Winter Solstice	Winter Solstice	Winter Solstice	winter-solstice__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+132856	132854	en	JazzNotJazz Music & Politics	JazzNotJazz Music & Politics	JazzNotJazz Music &amp; Politics	jazznotjazzmp__jazz-en	16768	jazz	Jazz	jazz-en
+132854	132854	nl	JazzNotJazz Music & Politics	JazzNotJazz Music & Politics	JazzNotJazz Music &amp; Politics	jazznotjazzmp__jazz-nl	16766	jazz	Jazz	jazz
+141673	141669	en	Resonator	Resonator	Resonator	resonator__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+141669	141669	nl	Resonator	Resonator	Resonator	resonator__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+141677	141675	en	Re:light	Re:light	Re:light	re_light__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+141675	141675	nl	Re:light	Re:light	Re:light	re_light__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+142379	142377	en	Omzwervingen in de Joodse muziek	Wandering around Jewish music	Wandering around Jewish music	omzwervingen-in-de-joodse-muziek__wereld-en	16974	wereld	World Music	world-music
+142377	142377	nl	Omzwervingen in de Joodse muziek	Wandering around Jewish music	Omzwervingen in de Joodse muziek	omzwervingen-in-de-joodse-muziek__wereld-nl	16972	wereld	Wereld	wereldmuziek
+142675	142673	en	All Along Broadway	All Along Broadway	All Along Broadway	all-along-broadway__jazz-en	16768	jazz	Jazz	jazz-en
+142673	142673	nl	All Along Broadway	All Along Broadway	All Along Broadway	all-along-broadway__jazz-nl	16766	jazz	Jazz	jazz
+142967	142965	en	Bureau Radiophonie	Bureau Radiophonie	Bureau Radiophonie	bureau_radiophonie__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+142965	142965	nl	Bureau Radiophonie	Bureau Radiophonie	Bureau Radiophonie	bureau_radiophonie__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+145094	145092	en	Noorderlicht	Northern Lights	Northern Lights	noorderlicht__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+145092	145092	nl	Noorderlicht	Northern Lights	Noorderlicht	noorderlicht__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+145098	145096	en	De eigenzinnige Prokofjev	The wayward Prokofiev	The wayward Prokofiev	de-eigenzinnige-prokofjev__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+145096	145096	nl	De eigenzinnige Prokofjev	The wayward Prokofiev	De eigenzinnige Prokofjev	de-eigenzinnige-prokofjev__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+145795	145793	en	Lastige Leerling	Stubborn Student	Stubborn Student	lastige-leerling__klassiek-en	3268	klassiek	Classical Music	classical-music
+145793	145793	nl	Lastige Leerling	Stubborn Student	Lastige Leerling	lastige-leerling__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+146860	146858	en	Bach & Co	Bach & Co	Bach &amp; Co	bach-co__klassiek-en	3268	klassiek	Classical Music	classical-music
+146864	146858	en	Bach & Co	Bach & Co	Bach &amp; Co	bach-co__oud-en	3050	oud	Early Music	early-music
+146858	146858	nl	Bach & Co	Bach & Co	Bach &amp; Co	bach-co__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+146862	146858	nl	Bach & Co	Bach & Co	Bach &amp; Co	bach-co__oud-nl	3048	oud	Oud	oude-muziek
+147704	147702	en	Radio Elastica	Radio Elastica	Radio Elastica	radio-elastica__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+147702	147702	nl	Radio Elastica	Radio Elastica	Radio Elastica	radio-elastica__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+153323	153321	en	Little Big Bands	Little Big Bands	Little Big Bands	little-big-bands__jazz-en	16768	jazz	Jazz	jazz-en
+153321	153321	nl	Little Big Bands	Little Big Bands	Little Big Bands	little-big-bands__jazz-nl	16766	jazz	Jazz	jazz
+155402	155400	en	In de Schijnwerper	In the Spotlight	In the Spotlight	in-de-schijnwerper__klassiek-en	3268	klassiek	Classical Music	classical-music
+155400	155400	nl	In de Schijnwerper	In the Spotlight	In de Schijnwerper	in-de-schijnwerper__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+155791	155789	en	O Brasil da Lil	O Brasil da Lil	O Brasil da Lil	o-brasil-da-lil__wereld-en	16974	wereld	World Music	world-music
+155789	155789	nl	O Brasil da Lil	O Brasil da Lil	O Brasil da Lil	o-brasil-da-lil__wereld-nl	16972	wereld	Wereld	wereldmuziek
+157805	157803	en	Cinematheque	Cinematheque	Cinematheque	cinematheque__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+157803	157803	nl	Cinematheque	Cinematheque	Cinematheque	cinematheque__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+157809	157807	en	Ongehoord	Unheard	Unheard	ongehoord__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+157807	157807	nl	Ongehoord	Unheard	Ongehoord	ongehoord__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+161435	159279	en	Dansen en de Blues	Dancing and the Blues	Dancing and the Blues	dansen-en-de-blues__jazz-en	16768	jazz	Jazz	jazz-en
+159279	159279	nl	Dansen en de Blues	Dancing and the Blues	Dansen en de Blues	dansen-en-de-blues__jazz-nl	16766	jazz	Jazz	jazz
+163347	163345	en	Tangos Despreciados	Tangos Despreciados	Tangos Despreciados	tangos-despreciados__wereld-en	16974	wereld	World Music	world-music
+163345	163345	nl	Tangos Despreciados	Tangos Despreciados	Tangos Despreciados	tangos-despreciados__wereld-nl	16972	wereld	Wereld	wereldmuziek
+167574	167572	en	Behind the Dikes	Behind the Dikes	Behind the Dikes	behind-the-dikes__jazz-en	16768	jazz	Jazz	jazz-en
+167572	167572	nl	Behind the Dikes	Behind the Dikes	Behind the Dikes	behind-the-dikes__jazz-nl	16766	jazz	Jazz	jazz
+167706	167704	en	De Jazz Delta	The Jazz Delta	The Jazz Delta	de-jazz-delta__jazz-en	16768	jazz	Jazz	jazz-en
+167704	167704	nl	De Jazz Delta	The Jazz Delta	De Jazz Delta	de-jazz-delta__jazz-nl	16766	jazz	Jazz	jazz
+168858	168856	en	On Cloud Nine	On Cloud Nine	On Cloud Nine	on-cloud-nine__oud-en	3050	oud	Early Music	early-music
+168856	168856	nl	On Cloud Nine	On Cloud Nine	On Cloud Nine	on-cloud-nine__oud-nl	3048	oud	Oud	oude-muziek
+169055	169053	en	Jazz Guitar	Jazz Guitar	Jazz Guitar	jazz-guitar__jazz-en	16768	jazz	Jazz	jazz-en
+169053	169053	nl	Jazz Guitar	Jazz Guitar	Jazz Guitar	jazz-guitar__jazz-nl	16766	jazz	Jazz	jazz
+170158	170156	en	Co Live!	Co Live!	Co Live!	co-live__jazz-en	16768	jazz	Jazz	jazz-en
+170156	170156	nl	Co Live!	Co Live!	Co Live!	co-live__jazz-nl	16766	jazz	Jazz	jazz
+170176	170174	en	Dwarsliggers & Buitenbeentjes	Troublemakers & Outsiders	Dwarsliggers &amp; Buitenbeentjes	dwarsliggers-buitenbeentjes__jazz-en	16768	jazz	Jazz	jazz-en
+215350	170174	en	Dwarsliggers & Buitenbeentjes	Troublemakers & Outsiders	Troublemakers &amp; Outsiders	troublemakers-outsiders	16768	jazz	Jazz	jazz-en
+170174	170174	nl	Dwarsliggers & Buitenbeentjes	Troublemakers & Outsiders	Dwarsliggers &amp; Buitenbeentjes	dwarsliggers-buitenbeentjes__jazz-nl	16766	jazz	Jazz	jazz
+170321	170319	en	Turkenburg Time Travels	Turkenburg Time Travels	Turkenburg Time Travels	turkenburg-time-travels__jazz-en	16768	jazz	Jazz	jazz-en
+170319	170319	nl	Turkenburg Time Travels	Turkenburg Time Travels	Turkenburg Time Travels	turkenburg-time-travels__jazz-nl	16766	jazz	Jazz	jazz
+173891	173889	en	Ritmundo	Ritmundo	Ritmundo	ritmundo__wereld-en	16974	wereld	World Music	world-music
+173889	173889	nl	Ritmundo	Ritmundo	Ritmundo	ritmundo__wereld-nl	16972	wereld	Wereld	wereldmuziek
+175989	175987	en	Ratatouille	Ratatouille	Ratatouille	ratatouille__klassiek-en	3268	klassiek	Classical Music	classical-music
+175987	175987	nl	Ratatouille	Ratatouille	Ratatouille	ratatouille__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+181913	181911	en	Deep Jazz	Deep Jazz	Deep Jazz	deep-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+181911	181911	nl	Deep Jazz	Deep Jazz	Deep Jazz	deep-jazz__jazz-nl	16766	jazz	Jazz	jazz
+184221	184217	en	Kaap Gonzo	Cape Gonzo	Cape Gonzo	kaap-gonzo__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+184217	184217	nl	Kaap Gonzo	Cape Gonzo	Kaap Gonzo	kaap-gonzo__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+184468	184466	en	Meesterpianisten	Master Pianists	Master Pianists	meesterpianisten__klassiek-en	3268	klassiek	Classical Music	classical-music
+184466	184466	nl	Meesterpianisten	Master Pianists	Meesterpianisten	meesterpianisten__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+185418	185416	en	inJazz Radio	inJazz Radio	inJazz Radio	injazz-radio__jazz-en	16768	jazz	Jazz	jazz-en
+185416	185416	nl	inJazz Radio	inJazz Radio	inJazz Radio	injazz-radio__jazz-nl	16766	jazz	Jazz	jazz
+186830	186830	nl	Concertzender 40 jaar		Concertzender 40 jaar	concertzender-40-jaar	3266	klassiek	Klassiek	klassieke-muziek
+186832	186832	en		Concertzender 40 years	Concertzender 40 years	concertzender-40-years	3268	klassiek	Classical Music	classical-music
+187142	187142	en	Luister!	Listen!	Listen!	luister__klassiek-en	3268	klassiek	Classical Music	classical-music
+187330	187142	nl	Luister!	Listen!	Luister!	luister__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+187324	187322	en	Sanssouci	Sanssouci	Sanssouci	sanssouci__klassiek-en	3268	klassiek	Classical Music	classical-music
+187322	187322	nl	Sanssouci	Sanssouci	Sanssouci	sanssouci__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+187459	187459	en		Wanderings in Jewish Music	Wanderings in Jewish Music	wanderings-in-jewish-music	16974	wereld	World Music	world-music
+188121	188119	en	Around the World	Around the World	Around the World	around_the_world__jazz-en	16768	jazz	Jazz	jazz-en
+188119	188119	nl	Around the World	Around the World	Around the World	around_the_world__jazz-nl	16766	jazz	Jazz	jazz
+188125	188123	en	Bop, Blues & Boogaloo	Bop, Blues & Boogaloo	Bop, Blues &amp; Boogaloo	bop_blues_boogaloo__jazz-en	16768	jazz	Jazz	jazz-en
+188123	188123	nl	Bop, Blues & Boogaloo	Bop, Blues & Boogaloo	Bop, Blues &amp; Boogaloo	bop_blues_boogaloo__jazz-nl	16766	jazz	Jazz	jazz
+188129	188127	en	Coffee & Jazz	Coffee & Jazz	Coffee &amp; Jazz	coffee_jazz__jazz-en	16768	jazz	Jazz	jazz-en
+188127	188127	nl	Coffee & Jazz	Coffee & Jazz	Coffee &amp; Jazz	coffee_jazz__jazz-nl	16766	jazz	Jazz	jazz
+188133	188131	en	Cross Currents	Cross Currents	Cross Currents	cross_currents__jazz-en	16768	jazz	Jazz	jazz-en
+188131	188131	nl	Cross Currents	Cross Currents	Cross Currents	cross_currents__jazz-nl	16766	jazz	Jazz	jazz
+188137	188135	en	Fusion	Fusion	Fusion	fusion__jazz-en	16768	jazz	Jazz	jazz-en
+188135	188135	nl	Fusion	Fusion	Fusion	fusion__jazz-nl	16766	jazz	Jazz	jazz
+188141	188139	en	Fusion World	Fusion World	Fusion World	fusion_world__wereld-en	16974	wereld	World Music	world-music
+188139	188139	nl	Fusion World	Fusion World	Fusion World	fusion_world__wereld-nl	16972	wereld	Wereld	wereldmuziek
+188145	188143	en	Jazz & Cocktails	Jazz & Cocktails	Jazz &amp; Cocktails	jazz_cocktails__jazz-en	16768	jazz	Jazz	jazz-en
+188143	188143	nl	Jazz & Cocktails	Jazz & Cocktails	Jazz &amp; Cocktails	jazz_cocktails__jazz-nl	16766	jazz	Jazz	jazz
+188149	188147	en	Jazz beyond the Dikes	Jazz beyond the Dikes	Jazz beyond the Dikes	jazz_beyond_the_dikes__jazz-en	16768	jazz	Jazz	jazz-en
+188147	188147	nl	Jazz beyond the Dikes	Jazz beyond the Dikes	Jazz beyond the Dikes	jazz_beyond_the_dikes__jazz-nl	16766	jazz	Jazz	jazz
+188153	188151	en	Neo Bop	Neo Bop	Neo Bop	neo_bop__jazz-en	16768	jazz	Jazz	jazz-en
+188151	188151	nl	Neo Bop	Neo Bop	Neo Bop	neo_bop__jazz-nl	16766	jazz	Jazz	jazz
+188157	188155	en	Round Midnight	Round Midnight	Round Midnight	round_midnight__jazz-en	16768	jazz	Jazz	jazz-en
+188155	188155	nl	Round Midnight	Round Midnight	Round Midnight	round_midnight__jazz-nl	16766	jazz	Jazz	jazz
+188161	188159	en	Swing it Back	Swing it Back	Swing it Back	swing_it_back__jazz-en	16768	jazz	Jazz	jazz-en
+188159	188159	nl	Swing it Back	Swing it Back	Swing it Back	swing_it_back__jazz-nl	16766	jazz	Jazz	jazz
+188165	188163	en	World of Jazz, The Night Mix	World of Jazz, The Night Mix	World of Jazz, The Night Mix	world_of_jazz_the_night_mix__jazz-en	16768	jazz	Jazz	jazz-en
+188163	188163	nl	World of Jazz, The Night Mix	World of Jazz, The Night Mix	World of Jazz, The Night Mix	world_of_jazz_the_night_mix__jazz-nl	16766	jazz	Jazz	jazz
+188169	188167	en	Nordic Sounds	Nordic Sounds	Nordic Sounds	nordic_sounds__jazz-en	16768	jazz	Jazz	jazz-en
+188167	188167	nl	Nordic Sounds	Nordic Sounds	Nordic Sounds	nordic_sounds__jazz-nl	16766	jazz	Jazz	jazz
+188173	188171	en	The Balancing Act	The Balancing Act	The Balancing Act	the_balancing_act__jazz-en	16768	jazz	Jazz	jazz-en
+188171	188171	nl	The Balancing Act	The Balancing Act	The Balancing Act	the_balancing_act__jazz-nl	16766	jazz	Jazz	jazz
+188177	188175	en	UK Jazz	UK Jazz	UK Jazz	uk_jazz__jazz-en	16768	jazz	Jazz	jazz-en
+188175	188175	nl	UK Jazz	UK Jazz	UK Jazz	uk_jazz__jazz-nl	16766	jazz	Jazz	jazz
+189276	189274	en	ProgJazz	ProgJazz	ProgJazz	progjazz__jazz-en	16768	jazz	Jazz	jazz-en
+189274	189274	nl	ProgJazz	ProgJazz	ProgJazz	progjazz__jazz-nl	16766	jazz	Jazz	jazz
+189379	189377	en	Zwerven door de Romantiek	Roaming the Romantic Period	Roaming the Romantic Period	zwerven-door-de-romantiek__klassiek-en	3268	klassiek	Classical Music	classical-music
+189377	189377	nl	Zwerven door de Romantiek	Roaming the Romantic Period	Zwerven door de Romantiek	zwerven-door-de-romantiek__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+191801	191799	en	World of Jazz Live	World of Jazz Live	World of Jazz Live	world-of-jazz-live__jazz-en	16768	jazz	Jazz	jazz-en
+230596	191799	en	World of Jazz Live	World of Jazz Live	World of Jazz Live	world-of-jazz-live	16768	jazz	Jazz	jazz-en
+191799	191799	nl	World of Jazz Live	World of Jazz Live	World of Jazz Live	world-of-jazz-live__jazz-nl	16766	jazz	Jazz	jazz
+191874	191872	en	Past, Present & Future	Past, Present & Future	Past, Present &amp; Future	past-present-future__jazz-en	16768	jazz	Jazz	jazz-en
+191872	191872	nl	Past, Present & Future	Past, Present & Future	Past, Present &amp; Future	past-present-future__jazz-nl	16766	jazz	Jazz	jazz
+195167	195165	en	Vlaamse Meesters op de Bok	Flemish Masters	Flemish Masters	vlaamse-meesters-op-de-bok__klassiek-en	3268	klassiek	Classical Music	classical-music
+195165	195165	nl	Vlaamse Meesters op de Bok	Flemish Masters	Vlaamse Meesters op de Bok	vlaamse-meesters-op-de-bok	3266	klassiek	Klassiek	klassieke-muziek
+197197	197195	en	Dutch Jazz	Dutch Jazz	Dutch Jazz	dutch-jazz__jazz-en	16768	jazz	Jazz	jazz-en
+197195	197195	nl	Dutch Jazz	Dutch Jazz	Dutch Jazz	dutch-jazz__jazz-nl	16766	jazz	Jazz	jazz
+197201	197199	en	Jazzkotabel	Jazzkotabel	Jazzkotabel	jazzkotabel__en	16768	jazz	Jazz	jazz-en
+197199	197199	nl	Jazzkotabel	Jazzkotabel	Jazzkotabel	jazzkotabel__nl	16766	jazz	Jazz	jazz
+198882	198880	en	Basement Sessions	Basement Sessions	Basement Sessions	basement_sessions__jazz-en	16768	jazz	Jazz	jazz-en
+198880	198880	nl	Basement Sessions	Basement Sessions	Basement Sessions	basement_sessions__jazz-nl	16766	jazz	Jazz	jazz
+204121	204119	en	Tijdsignaal	Time Signal	Time Signal	tijdsignaal__klassiek-en	3268	klassiek	Classical Music	classical-music
+204119	204119	nl	Tijdsignaal	Time Signal	Tijdsignaal	tijdsignaal__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+204535	204533	en	Framework 2	Framework 2	Framework 2	framework2__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+204662	204533	en	Framework 2	Framework 2	Framework 2	framework-2-contemporary-music	3326	hedendaags	Contemporary Music	contemporary-music
+204533	204533	nl	Framework 2	Framework 2	Framework 2	framework2__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+204660	204533	nl	Framework 2	Framework 2	Framework 2	framework-2	3324	hedendaags	Hedendaags	hedendaagse-muziek
+208582	208580	en	Muziekmakers der Nederlanden	Composers and Musicians of the Netherlands	Composers and Musicians of the Netherlands	muziekmakers-der-nederlanden__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+208580	208580	nl	Muziekmakers der Nederlanden	Composers and Musicians of the Netherlands	Muziekmakers der Nederlanden	muziekmakers-der-nederlanden__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+208586	208584	en	Muziekmakers	Composers and Musicians	Composers and Musicians	muziekmakers__hedendaags-en	3326	hedendaags	Contemporary Music	contemporary-music
+208584	208584	nl	Muziekmakers	Composers and Musicians	Muziekmakers	muziekmakers__hedendaags-nl	3324	hedendaags	Hedendaags	hedendaagse-muziek
+209158	209156	en	Jump!	Jump!	Jump!	jump__jazz-en	16768	jazz	Jazz	jazz-en
+209156	209156	nl	Jump!	Jump!	Jump!	jump__jazz-nl	16766	jazz	Jazz	jazz
+209162	209160	en	Congo Square Radio	Congo Square Radio	Congo Square Radio	congo-square-radio__jazz-en	16768	jazz	Jazz	jazz-en
+209160	209160	nl	Congo Square Radio	Congo Square Radio	Congo Square Radio	congo-square-radio__jazz-nl	16766	jazz	Jazz	jazz
+209199	209197	en	O Brazil de Lil	O Brazil de Lil	O Brazil de Lil	o-brazil-de-lil-world-music	16974	wereld	World Music	world-music
+209197	209197	nl	O Brazil de Lil	O Brazil de Lil	O Brazil de Lil	o-brazil-de-lil	16972	wereld	Wereld	wereldmuziek
+212923	212921	en	Roots & Routes	Roots & Routes	Roots &amp; Routes	roots-routes__wereld-en	16974	wereld	World Music	world-music
+212921	212921	nl	Roots & Routes	Roots & Routes	Roots &amp; Routes	roots-routes__wereld-nl	16972	wereld	Wereld	wereldmuziek
+216713	216711	en	Irie Riddims	Irie Riddims	Irie Riddims	irie-riddims__wereld-en	16974	wereld	World Music	world-music
+216711	216711	nl	Irie Riddims	Irie Riddims	Irie Riddims	irie-riddims__wereld-nl	16972	wereld	Wereld	wereldmuziek
+217030	217028	en	De Hammond Podcast	The Hammond Podcast	The Hammond Podcast	de-hammond-podcast__jazz-en	16768	jazz	Jazz	jazz-en
+217028	217028	nl	De Hammond Podcast	The Hammond Podcast	De Hammond Podcast	de-hammond-podcast__jazz-nl	16766	jazz	Jazz	jazz
+217047	217045	en	Rec/Play	Rec/Play	Rec/Play	rec_play__jazz-en	16768	jazz	Jazz	jazz-en
+217045	217045	nl	Rec/Play	Rec/Play	Rec/Play	rec_play__jazz-nl	16766	jazz	Jazz	jazz
+217756	217754	en	Shades of Blue	Shades of Blue	Shades of Blue	shades-of-blue__jazz-en	16768	jazz	Jazz	jazz-en
+217754	217754	nl	Shades of Blue	Shades of Blue	Shades of Blue	shades-of-blue__jazz-nl	16766	jazz	Jazz	jazz
+221117	221115	en	inJazz	inJazz	inJazz	injazz__jazz-en	16768	jazz	Jazz	jazz-en
+221115	221115	nl	inJazz	inJazz	inJazz	injazz__jazz-nl	16766	jazz	Jazz	jazz
+225534	225532	en	Live Forms	Live Forms	Live Forms	live-forms__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+225532	225532	nl	Live Forms	Live Forms	Live Forms	live-forms__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+227922	227920	en	Schatgraven	Treasure Hunting	Treasure Hunting	schatgraven__klassiek-en	3268	klassiek	Classical Music	classical-music
+227920	227920	nl	Schatgraven	Treasure Hunting	Schatgraven	schatgraven__klassiek-nl	3266	klassiek	Klassiek	klassieke-muziek
+230586	230584	en	Miles & Coltrane at 100: Specials	Miles & Coltrane at 100: Specials	Miles &amp; Coltrane at 100: Specials	miles-coltrane-at-100-specials__jazz-en	16768	jazz	Jazz	jazz-en
+230584	230584	nl	Miles & Coltrane at 100: Specials	Miles & Coltrane at 100: Specials	Miles &amp; Coltrane at 100: Specials	miles-coltrane-at-100-specials__jazz-nl	16766	jazz	Jazz	jazz
+232185	232183	en	Tussen Je Oren	Between Your Ears	Between Your Ears	tussen-je-oren__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+232183	232183	nl	Tussen Je Oren	Between Your Ears	Tussen Je Oren	tussen-je-oren__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+232407	232405	en	Liminal State	Liminal State	Liminal State	liminal-state__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+232405	232405	nl	Liminal State	Liminal State	Liminal State	liminal-state__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
+232411	232409	en	Stoorzender	Jammer	Jammer	stoorzender__crosslinks-en	5193	crosslinks	Crosslinks	crosslinks-en
+232409	232409	nl	Stoorzender	Jammer	Stoorzender	stoorzender__crosslinks-nl	5191	crosslinks	Crosslinks	crosslinks
