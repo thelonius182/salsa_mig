@@ -318,6 +318,129 @@ test_genre_texts <- build_genre_texts(
 
 # test_genre_texts
 
+test_wp_program_terms <- tibble(
+  term_id = c(
+    # Concertzender Live: multiple genre aliases
+    17016, 17018, 17256, 23885,
+    
+    # Nuove Musiche: NL/EN not paired by Polylang
+    27889, 27891,
+    
+    # Franz Liszt: canonical historical terms are out of scope
+    39184, 41697, 43090, 44827
+  ),
+  source_title = c(
+    "Concertzender Live",
+    "Concertzender Live",
+    "Concertzender Live",
+    "Concertzender Live",
+    
+    "Nuove Musiche",
+    "Nuove Musiche",
+    
+    "Franz Liszt, episodes uit het leven van een artiest",
+    "Franz Liszt, episodes from the life of an artist",
+    "Franz Liszt, episodes uit het leven van een artiest",
+    "Franz Liszt, episodes from the life of an artist"
+  ),
+  source_slug = c(
+    "concertzender-live__jazz-nl",
+    "concertzender-live__jazz-en",
+    "concertzender-live__oud-nl",
+    "concertzender-live__oud-en",
+    
+    "nuove-musiche__oud-nl",
+    "nuove-musiche__oud-en",
+    
+    "franz-liszt-episodes-uit-het-leven-van-een-artiest__raakvlakken-nl",
+    "franz-liszt-episodes-uit-het-leven-van-een-artiest__raakvlakken-en",
+    "franz-liszt-episodes-uit-het-leven-van-een-artiest__klassiek-nl",
+    "franz-liszt-episodes-uit-het-leven-van-een-artiest__klassiek-en"
+  ),
+  parent_term_id = c(
+    16766, 16768, 3048, 3050,
+    3048, 3050,
+    17242, 17244, 3266, 3268
+  ),
+  language_slug = c(
+    "pll_nl", "pll_en", "pll_nl", "pll_en",
+    "pll_nl", "pll_en",
+    "pll_nl", "pll_en", "pll_nl", "pll_en"
+  )
+)
+
+test_wp_programs <- build_programs(
+  test_wp_program_compat$compat_programs,
+  test_wp_program_compat$compat_program_terms
+)
+
+test_wp_program_term_map <- build_program_term_map(
+  test_wp_program_compat$compat_program_terms
+)
+
+stopifnot(
+  nrow(test_wp_program_compat$compat_programs) == 3L,
+  
+  # Canonical program identities.
+  17016 %in% test_wp_program_compat$compat_programs$program_id,
+  27889 %in% test_wp_program_compat$compat_programs$program_id,
+  39184 %in% test_wp_program_compat$compat_programs$program_id,
+  
+  # Canonical logical slugs.
+  test_wp_programs |>
+    filter(source_id == "17016") |>
+    pull(slug) |>
+    identical("concertzender-live"),
+  
+  test_wp_programs |>
+    filter(source_id == "27889") |>
+    pull(slug) |>
+    identical("nuove-musiche"),
+  
+  test_wp_programs |>
+    filter(source_id == "39184") |>
+    pull(slug) |>
+    identical(
+      "franz-liszt-episodes-uit-het-leven-van-een-artiest"
+    ),
+  
+  # Later in-scope Franz Liszt aliases retain the historical
+  # canonical program identity.
+  test_wp_program_term_map |>
+    filter(term_id == "43090") |>
+    pull(source_program_id) |>
+    identical("39184"),
+  
+  test_wp_program_term_map |>
+    filter(term_id == "44827") |>
+    pull(source_program_id) |>
+    identical("39184"),
+  
+  # Broken Polylang pairing does not split Nuove Musiche.
+  test_wp_program_term_map |>
+    filter(term_id == "27891") |>
+    pull(source_program_id) |>
+    identical("27889")
+)
+
+test_wp_in_scope_program_terms <- tibble(
+  term_id = c(
+    17016,
+    17018,
+    27889,
+    27891,
+    
+    # Only the later Franz Liszt aliases are in scope.
+    43090,
+    44827
+  )
+)
+
+test_wp_program_compat <- prepare_wp_program_compat(
+  historical_program_terms = test_wp_program_terms,
+  in_scope_program_terms = test_wp_in_scope_program_terms
+)
+
 # test_compat_program_genres ----
 test_compat_program_genres <- tibble(
   program_id = c(

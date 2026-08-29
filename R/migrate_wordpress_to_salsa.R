@@ -1,4 +1,4 @@
-pacman::p_load(DBI, RMariaDB, dplyr, tidyr, purrr, stringr, jsonlite, openssl)
+pacman::p_load(DBI, RMariaDB, dplyr, tidyr, purrr, stringr, jsonlite, openssl, igraph)
 
 source("R/foundation.R")
 source("R/programs.R")
