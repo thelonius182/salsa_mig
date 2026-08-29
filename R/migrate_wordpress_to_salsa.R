@@ -1239,6 +1239,228 @@ prepare_wp_episode_text_rows <- function(wp_rows) {
     bind_cols(prepared_content)
 }
 
+prepare_wp_post_text_rows <- function(wp_rows) {
+  required_columns <- c("post_id",
+                        "locale",
+                        "translation_group_id",
+                        "post_title",
+                        "post_content")
+  
+  missing_columns <- setdiff(required_columns, names(wp_rows))
+  
+  if (length(missing_columns) > 0) {
+    stop(
+      "Missing required WordPress post text columns: ",
+      paste(missing_columns, collapse = ", ")
+    )
+  }
+  
+  if (any(is.na(wp_rows$post_id))) {
+    stop("WordPress post is missing post_id")
+  }
+  
+  if (any(is.na(wp_rows$locale) | wp_rows$locale == "")) {
+    stop("WordPress post is missing locale")
+  }
+  
+  prepared_content <- prepare_wordpress_content(wp_rows$post_content)
+  
+  wp_rows |>
+    transmute(
+      post_source_key = wp_post_source_key(translation_group_id, post_id),
+      locale = as.character(locale),
+      title = as.character(post_title)
+    ) |>
+    bind_cols(prepared_content)
+}
+
+prepare_wp_post_rows <- function(wp_rows) {
+  required_columns <- c("post_id", "locale", "translation_group_id", "post_name")
+  
+  missing_columns <- setdiff(required_columns, names(wp_rows))
+  
+  if (length(missing_columns) > 0) {
+    stop("Missing required WordPress post columns: ",
+         paste(missing_columns, collapse = ", "))
+  }
+  
+  if (any(is.na(wp_rows$post_id))) {
+    stop("WordPress post is missing post_id")
+  }
+  
+  if (any(is.na(wp_rows$locale) | wp_rows$locale == "")) {
+    stop("WordPress post is missing locale")
+  }
+  
+  unexpected_locales <- wp_rows |>
+    filter(!locale %in% c("nl", "en"))
+  
+  if (nrow(unexpected_locales) > 0) {
+    stop("Unexpected WordPress post locale: ",
+         paste(unique(unexpected_locales$locale), collapse = ", "))
+  }
+  
+  prepared_rows <- wp_rows |>
+    mutate(post_source_key = wp_post_source_key(translation_group_id, post_id))
+  
+  canonical_slugs <- prepared_rows |>
+    arrange(post_source_key, factor(locale, levels = c("nl", "en"))) |>
+    group_by(post_source_key) |>
+    summarise(canonical_slug = first(post_name), .groups = "drop")
+  
+  prepared_rows |>
+    transmute(
+      post_source_key,
+      locale = as.character(locale),
+      wp_post_id = post_id,
+      post_name = as.character(post_name)
+    ) |>
+    left_join(canonical_slugs, by = "post_source_key")
+}
+
+prepare_wp_term_rows <- function(wp_rows) {
+  required_columns <- c("term_id", "locale", "translation_group_id", "slug", "name")
+  
+  missing_columns <- setdiff(required_columns, names(wp_rows))
+  
+  if (length(missing_columns) > 0) {
+    stop("Missing required WordPress term columns: ",
+         paste(missing_columns, collapse = ", "))
+  }
+  
+  if (any(is.na(wp_rows$term_id))) {
+    stop("WordPress term is missing term_id")
+  }
+  
+  prepared_rows <- wp_rows |>
+    mutate(
+      locale = str_remove(as.character(locale), "^pll_"),
+      term_source_key = wp_term_source_key(translation_group_id, term_id)
+    )
+  
+  unexpected_locales <- prepared_rows |>
+    filter(!locale %in% c("nl", "en"))
+  
+  if (nrow(unexpected_locales) > 0) {
+    stop("Unexpected WordPress term locale: ",
+         paste(unique(unexpected_locales$locale), collapse = ", "))
+  }
+  
+  canonical_terms <- prepared_rows |>
+    arrange(term_source_key, factor(locale, levels = c("nl", "en"))) |>
+    group_by(term_source_key) |>
+    summarise(
+      canonical_slug = first(slug),
+      canonical_name = first(name),
+      .groups = "drop"
+    )
+  
+  prepared_rows |>
+    select(term_id, term_source_key, locale) |>
+    left_join(canonical_terms, by = "term_source_key")
+}
+
+prepare_wp_category_rows <- function(wp_rows) {
+  prepare_wp_term_rows(wp_rows) |>
+    transmute(
+      category_source_key = term_source_key,
+      canonical_slug,
+      canonical_name
+    )
+}
+
+prepare_wp_tag_rows <- function(wp_rows) {
+  prepare_wp_term_rows(wp_rows) |>
+    transmute(
+      tag_source_key = term_source_key,
+      canonical_slug,
+      canonical_name
+    )
+}
+
+prepare_wp_post_term_rows <- function(wp_rows) {
+  required_columns <- c(
+    "post_id",
+    "post_translation_group_id",
+    "taxonomy",
+    "term_id",
+    "term_translation_group_id"
+  )
+  
+  missing_columns <- setdiff(required_columns, names(wp_rows))
+  
+  if (length(missing_columns) > 0) {
+    stop(
+      "Missing required WordPress post-term columns: ",
+      paste(missing_columns, collapse = ", ")
+    )
+  }
+  
+  if (any(is.na(wp_rows$post_id))) {
+    stop("WordPress post-term relation is missing post_id")
+  }
+  
+  if (any(is.na(wp_rows$term_id))) {
+    stop("WordPress post-term relation is missing term_id")
+  }
+  
+  unexpected_taxonomies <- wp_rows |>
+    filter(!taxonomy %in% c("category", "post_tag"))
+  
+  if (nrow(unexpected_taxonomies) > 0) {
+    stop("Unexpected WordPress post-term taxonomy: ",
+         paste(unique(unexpected_taxonomies$taxonomy), collapse = ", "))
+  }
+  
+  wp_rows |>
+    transmute(
+      post_source_key = wp_post_source_key(post_translation_group_id, post_id),
+      taxonomy,
+      term_source_key = wp_term_source_key(term_translation_group_id, term_id)
+    ) |>
+    distinct(post_source_key, taxonomy, term_source_key) |>
+    arrange(post_source_key, taxonomy, term_source_key) |>
+    group_by(post_source_key, taxonomy) |>
+    mutate(position = row_number()) |>
+    ungroup()
+}
+
+prepare_wp_post_category_rows <- function(wp_rows) {
+  prepare_wp_post_term_rows(wp_rows) |>
+    filter(taxonomy == "category") |>
+    transmute(
+      post_source_key,
+      category_source_key = term_source_key,
+      position
+    )
+}
+
+prepare_wp_post_tag_rows <- function(wp_rows) {
+  prepare_wp_post_term_rows(wp_rows) |>
+    filter(taxonomy == "post_tag") |>
+    transmute(
+      post_source_key,
+      tag_source_key = term_source_key,
+      position
+    )
+}
+
+wp_post_source_key <- function(translation_group_id, post_id) {
+  if_else(
+    !is.na(translation_group_id),
+    as.character(translation_group_id),
+    paste0("wp_post:", post_id)
+  )
+}
+
+wp_term_source_key <- function(translation_group_id, term_id) {
+  if_else(
+    !is.na(translation_group_id),
+    as.character(translation_group_id),
+    paste0("wp_term:", term_id)
+  )
+}
+
 #  POSTS / ARTICLES DOMAIN ----
 build_posts <- function(post_rows) {
   required_columns <- c("post_source_key", "canonical_slug")
@@ -2133,6 +2355,77 @@ test_episode_rows <- tibble(
   mood_intensity = c(3, 3)
 )
 
+# test_image_rows ----
+test_image_rows <- tibble(
+  image_source_id = c(
+    90101,
+    90102,
+    90101
+  ),
+  url = c(
+    "https://example.org/uploads/coltrane.jpg",
+    "https://example.org/uploads/concert.jpg",
+    "https://example.org/uploads/coltrane.jpg"
+  ),
+  alt_text = c(
+    "John Coltrane",
+    "",
+    "John Coltrane"
+  ),
+  mime_type = c(
+    "image/jpeg",
+    "image/jpeg",
+    "image/jpeg"
+  ),
+  width_px = c(
+    1200,
+    1600,
+    1200
+  ),
+  height_px = c(
+    800,
+    900,
+    800
+  )
+)
+
+test_images <- build_images(
+  test_image_rows
+)
+
+# test_audio_rows ----
+test_audio_rows <- tibble(
+  audio_source_id = c(
+    90201,
+    90202,
+    90201
+  ),
+  url = c(
+    "https://example.org/audio/episode-1.mp3",
+    "https://example.org/audio/episode-2.mp3",
+    "https://example.org/audio/episode-1.mp3"
+  ),
+  file_name = c(
+    "episode-1.mp3",
+    "",
+    "episode-1.mp3"
+  ),
+  mime_type = c(
+    "audio/mpeg",
+    "audio/mpeg",
+    "audio/mpeg"
+  ),
+  duration_seconds = c(
+    3599.125,
+    NA,
+    3599.125
+  )
+)
+
+test_audio_files <- build_audio_files(
+  test_audio_rows
+)
+
 test_episodes <- build_episodes(
   test_episode_rows,
   test_program_term_map,
@@ -2369,77 +2662,6 @@ test_episode_editors <- build_episode_editors(
   test_editors
 )
 
-# test_image_rows ----
-test_image_rows <- tibble(
-  image_source_id = c(
-    90101,
-    90102,
-    90101
-  ),
-  url = c(
-    "https://example.org/uploads/coltrane.jpg",
-    "https://example.org/uploads/concert.jpg",
-    "https://example.org/uploads/coltrane.jpg"
-  ),
-  alt_text = c(
-    "John Coltrane",
-    "",
-    "John Coltrane"
-  ),
-  mime_type = c(
-    "image/jpeg",
-    "image/jpeg",
-    "image/jpeg"
-  ),
-  width_px = c(
-    1200,
-    1600,
-    1200
-  ),
-  height_px = c(
-    800,
-    900,
-    800
-  )
-)
-
-test_images <- build_images(
-  test_image_rows
-)
-
-# test_audio_rows ----
-test_audio_rows <- tibble(
-  audio_source_id = c(
-    90201,
-    90202,
-    90201
-  ),
-  url = c(
-    "https://example.org/audio/episode-1.mp3",
-    "https://example.org/audio/episode-2.mp3",
-    "https://example.org/audio/episode-1.mp3"
-  ),
-  file_name = c(
-    "episode-1.mp3",
-    "",
-    "episode-1.mp3"
-  ),
-  mime_type = c(
-    "audio/mpeg",
-    "audio/mpeg",
-    "audio/mpeg"
-  ),
-  duration_seconds = c(
-    3599.125,
-    NA,
-    3599.125
-  )
-)
-
-test_audio_files <- build_audio_files(
-  test_audio_rows
-)
-
 # test_post_rows ----
 test_post_rows <- tibble(
   post_source_key = c(48123, 48123),
@@ -2561,7 +2783,7 @@ test_missing_post_source_key <- tibble(
 # this will fail as expected:
 # build_post_texts(test_missing_post_source_key)
 
-# test_category_rows ----
+# test_categories ----
 test_category_rows <- tibble(
   category_source_key = c(27, 12, 27),
   canonical_slug = c(
@@ -2659,9 +2881,6 @@ test_tag_rows <- tibble(
 
 test_tags <- build_tags(test_tag_rows)
 
-test_tags
-
-
 # One source identity cannot have conflicting definitions.
 tryCatch(
   build_tags(
@@ -2752,6 +2971,7 @@ tryCatch(
   error = function(e) message(e$message)
 )
 
+# test_post_categories
 test_post_category_rows <- tibble(
   post_source_key = c(48123, 48123, 48123),
   category_source_key = c(12, 12, 27),
@@ -2763,9 +2983,7 @@ test_post_categories <- build_post_categories(
   test_category_rows
 )
 
-# test_post_categories
-
-
+# test_post_tags ----
 test_post_tag_rows <- tibble(
   post_source_key = c(48123, 48123, 48123),
   tag_source_key = c(15, 15, 42),
@@ -3172,6 +3390,7 @@ test_prepared_batch <- prepare_wordpress_content(
   )
 )
 
+# test_wp_episode_text_rows ----
 test_wp_episode_text_source <- tibble(
   post_id = c(871100, 871101),
   locale = c("nl", "en"),
@@ -3192,6 +3411,7 @@ test_wp_episode_text_rows <- prepare_wp_episode_text_rows(
   test_wp_episode_text_source
 )
 
+# test_realistic_episode_texts ----
 test_realistic_episode_texts <- test_wp_episode_text_source |>
   prepare_wp_episode_text_rows() |>
   build_episode_texts()
@@ -3206,3 +3426,225 @@ test_wp_replay_episode_text <- tibble(
 
 # expected to fail:
 # prepare_wp_episode_text_rows(test_wp_replay_episode_text)
+
+# test_wp_post_text_rows ----
+test_wp_post_text_source <- tibble(
+  post_id = c(905199, 905419, 920001),
+  locale = c("nl", "en", "nl"),
+  translation_group_id = c(234245, 234245, NA),
+  post_title = c(
+    "In Memoriam: bas Harry van der Kamp (1947-2026)",
+    "In Memoriam : bass Harry van der Kamp ( 1947 - 2026 )",
+    "Nederlandse standalone test"
+  ),
+  post_content = c(
+    paste0(
+      "In Documento van donderdag 3 september zenden we een In Memoriam uit.",
+      "<!--more-->",
+      "<p>Harry van der Kamp studeerde eerst rechten en psychologie.</p>"
+    ),
+    paste0(
+      "<p>In Documento on Thursday, September 3rd, we will broadcast an In Memoriam.</p>",
+      "<p>Harry van der Kamp initially studied law and psychology.</p>"
+    ),
+    "Korte introductie.<!--more--><p>Standalone inhoud.</p>"
+  )
+)
+
+test_wp_post_text_rows <- prepare_wp_post_text_rows(
+  test_wp_post_text_source
+)
+
+test_realistic_post_texts <- test_wp_post_text_source |>
+  prepare_wp_post_text_rows() |>
+  build_post_texts()
+
+# test_wp_post_rows ----
+test_wp_post_source <- tibble(
+  post_id = c(905199, 905419, 910001, 920001),
+  locale = c("nl", "en", "en", "nl"),
+  translation_group_id = c(234245, 234245, NA, NA),
+  post_name = c(
+    "in-memoriam-bas-harry-van-der-kamp-1947-2026",
+    "in-memoriam-bass-harry-van-der-kamp-1947-2026",
+    "english-only-standalone",
+    "nederlands-los-bericht"
+  )
+)
+
+test_wp_post_rows <- prepare_wp_post_rows(
+  test_wp_post_source
+)
+
+# test_realistic_posts ----
+test_realistic_posts <- test_wp_post_source |>
+  prepare_wp_post_rows() |>
+  build_posts()
+
+# test_wp_post_text_rows ----
+test_wp_post_text_rows <- prepare_wp_post_text_rows(
+  test_wp_post_text_source
+)
+
+# test_wp_term_rows ----
+test_wp_term_source <- tibble(
+  term_id = c(26, 34, 567),
+  locale = c("pll_nl", "pll_en", "pll_en"),
+  translation_group_id = c(472, 472, NA),
+  slug = c(
+    "blogs",
+    "blogs-en",
+    "voorpagina-en"
+  ),
+  name = c(
+    "Blogs",
+    "Blogs",
+    "Voorpagina"
+  )
+)
+
+# test_categories_realistic ----
+test_wp_term_rows <- prepare_wp_term_rows(
+  test_wp_term_source
+)
+
+test_wp_category_rows <- prepare_wp_category_rows(
+  test_wp_term_source
+)
+
+test_categories_realistic <- build_categories(
+  test_wp_category_rows
+)
+
+# test_tags_realistic ----
+test_wp_tag_rows <- prepare_wp_tag_rows(
+  test_wp_term_source
+)
+
+test_tags_realistic <- build_tags(
+  test_wp_tag_rows
+)
+
+# wp_category_rows <- wpt |>
+#   filter(taxonomy == "category") |>
+#   prepare_wp_category_rows()
+# 
+# wp_tag_rows <- wpt |>
+#   filter(taxonomy == "post_tag") |>
+#   prepare_wp_tag_rows()
+# 
+# real_categories <- build_categories(wp_category_rows)
+# real_tags <- build_tags(wp_tag_rows)
+
+# test_wp_post_term_rows ----
+test_wp_post_term_source <- tibble(
+  post_id = c(
+    905199, 905419,
+    905199, 905419,
+    920001
+  ),
+  post_translation_group_id = c(
+    234245, 234245,
+    234245, 234245,
+    NA
+  ),
+  taxonomy = c(
+    "category", "category",
+    "category", "category",
+    "post_tag"
+  ),
+  term_id = c(
+    26, 34,
+    20, 42,
+    840
+  ),
+  term_translation_group_id = c(
+    472, 472,
+    480, 480,
+    NA
+  )
+)
+
+# test_post_categories_realistic ----
+test_wp_category_source <- tibble(
+  term_id = c(26, 34, 20, 42),
+  locale = c("pll_nl", "pll_en", "pll_nl", "pll_en"),
+  translation_group_id = c(472, 472, 480, 480),
+  slug = c(
+    "blogs",
+    "blogs-en",
+    "voorpagina",
+    "front-page"
+  ),
+  name = c(
+    "Blogs",
+    "Blogs",
+    "Voorpagina",
+    "Front Page"
+  )
+)
+
+test_wp_category_rows <- prepare_wp_category_rows(
+  test_wp_category_source
+)
+
+test_wp_post_category_rows <- prepare_wp_post_category_rows(
+  test_wp_post_term_source
+)
+
+test_post_categories_realistic <- build_post_categories(
+  test_wp_post_category_rows,
+  test_wp_category_rows
+)
+
+# test_post_tags_realistic ----
+test_wp_tag_source <- tibble(
+  term_id = c(840),
+  locale = c("pll_nl"),
+  translation_group_id = c(NA),
+  slug = c("gonzocircusmag"),
+  name = c("@gonzocircusmag")
+)
+
+test_wp_tag_rows <- prepare_wp_tag_rows(
+  test_wp_tag_source
+)
+
+test_wp_post_tag_rows <- prepare_wp_post_tag_rows(
+  test_wp_post_term_source
+)
+
+test_post_tags_realistic <- build_post_tags(
+  test_wp_post_tag_rows,
+  test_wp_tag_rows
+)
+
+real_wp_post_term_rows <- prepare_wp_post_term_rows(wptr)
+
+real_wp_post_term_rows |>
+  count(taxonomy, name = "logical_relation_count")
+
+real_wp_post_category_rows <- prepare_wp_post_category_rows(wptr)
+
+real_wp_post_tag_rows <- prepare_wp_post_tag_rows(wptr)
+
+wp_category_rows <- wpt |>
+  filter(taxonomy == "category") |>
+  prepare_wp_category_rows()
+
+wp_tag_rows <- wpt |>
+  filter(taxonomy == "post_tag") |>
+  prepare_wp_tag_rows()
+
+real_post_categories <- build_post_categories(
+  real_wp_post_category_rows,
+  wp_category_rows
+)
+
+real_post_tags <- build_post_tags(
+  real_wp_post_tag_rows,
+  wp_tag_rows
+)
+
+nrow(real_post_categories)
+nrow(real_post_tags)
